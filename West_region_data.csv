@@ -1,0 +1,521 @@
+Time Stamp,Energy Output (kWh),Global Horizontal Irradiance GHI,Direct Normal Irradiance Dni,Diffuse Horizontal Irradiance DHI,Air Temperature,Wind Direction At 3 Meter,Wind Speed At 3 Meter,Relative Humidity,Barometric Pressure,Source,Region
+2013-06-01 00:00:00+03:00,1677.51648,7614.0,6556.0,2607.0,31.0,312.0,2.4,62.6,1001.3,King Abdullah University of Science and Technology Station,West
+2013-06-01 00:00:00+03:00,1651.9593599999998,7498.0,6110.0,2784.0,34.7,317.0,3.2,37.2,996.9,King Abdulaziz University Main Campus Station,West
+2013-07-01 00:00:00+03:00,1518.66576,6893.0,4820.0,3052.0,34.2,304.0,3.4,49.2,995.0,King Abdulaziz University Main Campus Station,West
+2013-07-01 00:00:00+03:00,1547.748,7025.0,5139.0,2947.0,31.6,294.0,2.4,68.4,999.1,King Abdullah University of Science and Technology Station,West
+2013-08-01 00:00:00+03:00,1444.41792,6556.0,4875.0,2781.0,32.0,282.0,2.5,69.2,1000.9,King Abdullah University of Science and Technology Station,West
+2013-08-01 00:00:00+03:00,1434.2832,6510.0,4772.0,2764.0,34.2,299.0,3.2,53.0,996.8,King Abdulaziz University Main Campus Station,West
+2013-09-01 00:00:00+03:00,1449.48528,6579.0,6512.0,1984.0,30.9,322.0,3.6,64.0,1006.0,Saline Water Conversion Corporation (Umluj) Station,West
+2013-09-01 00:00:00+03:00,1335.1391999999998,6060.0,4628.0,2590.0,33.4,310.0,3.3,58.9,998.4,King Abdulaziz University Main Campus Station,West
+2013-09-01 00:00:00+03:00,1348.57872,6121.0,3844.0,3088.0,32.1,269.0,2.8,72.9,1004.2,Al Qunfudhah Technical Institute Station,West
+2013-09-01 00:00:00+03:00,1345.93488,6109.0,4684.0,2596.0,31.1,308.0,2.4,75.1,1002.6,King Abdullah University of Science and Technology Station,West
+2013-10-01 00:00:00+03:00,1245.2486399999998,5652.0,4779.0,2341.0,30.4,225.0,2.6,71.8,1008.2,Al Qunfudhah Technical Institute Station,West
+2013-10-01 00:00:00+03:00,1198.32048,5439.0,5144.0,1995.0,29.2,310.0,2.1,75.2,1006.5,King Abdullah University of Science and Technology Station,West
+2013-10-01 00:00:00+03:00,1222.55568,5549.0,5202.0,2068.0,30.3,351.0,2.6,61.1,996.2,King Abdulaziz University (Osfan Campus) Station,West
+2013-10-01 00:00:00+03:00,1180.47456,5358.0,4904.0,2047.0,31.5,308.0,2.5,62.6,1002.3,King Abdulaziz University Main Campus Station,West
+2013-10-01 00:00:00+03:00,1237.31712,5616.0,6700.0,1424.0,28.3,323.0,3.1,61.3,1009.4,Saline Water Conversion Corporation (Umluj) Station,West
+2013-11-01 00:00:00+03:00,1038.8088,4715.0,4799.0,1792.0,29.2,277.0,2.3,71.6,1009.2,Al Qunfudhah Technical Institute Station,West
+2013-11-01 00:00:00+03:00,1047.18096,4753.0,5886.0,1375.0,27.9,340.0,2.2,57.3,1008.0,King Abdullah University of Science and Technology Station,West
+2013-11-01 00:00:00+03:00,1051.14672,4771.0,5757.0,1455.0,28.5,18.0,2.9,51.4,997.8,King Abdulaziz University (Osfan Campus) Station,West
+2013-11-01 00:00:00+03:00,1019.20032,4626.0,6440.0,1145.0,26.6,337.0,2.7,54.4,1011.1,Saline Water Conversion Corporation (Umluj) Station,West
+2013-11-01 00:00:00+03:00,1028.01312,4666.0,5334.0,1537.0,29.7,315.0,2.5,56.5,1003.7,King Abdulaziz University Main Campus Station,West
+2013-12-01 00:00:00+03:00,921.59856,4183.0,4548.0,1660.0,26.2,333.0,3.1,56.1,1007.5,King Abdulaziz University Main Campus Station,West
+2013-12-01 00:00:00+03:00,958.61232,4351.0,5413.0,1417.0,24.6,11.0,2.4,54.6,1011.9,King Abdullah University of Science and Technology Station,West
+2013-12-01 00:00:00+03:00,903.97296,4103.0,5884.0,1148.0,23.2,352.0,3.4,46.7,1015.3,Saline Water Conversion Corporation (Umluj) Station,West
+2013-12-01 00:00:00+03:00,940.7664,4270.0,4413.0,1745.0,26.7,271.0,2.5,71.5,1012.4,Al Qunfudhah Technical Institute Station,West
+2013-12-01 00:00:00+03:00,944.0712,4285.0,5025.0,1550.0,24.8,34.0,3.5,51.0,1001.4,King Abdulaziz University (Osfan Campus) Station,West
+2014-01-01 00:00:00+03:00,976.67856,4433.0,6137.0,1215.0,22.5,343.0,3.1,50.7,1014.4,Saline Water Conversion Corporation (Umluj) Station,West
+2014-01-01 00:00:00+03:00,906.17616,4113.0,4137.0,1816.0,24.7,27.0,3.2,54.9,1000.5,King Abdulaziz University (Osfan Campus) Station,West
+2014-01-01 00:00:00+03:00,906.17616,4113.0,4080.0,1818.0,26.0,332.0,2.8,58.9,1006.6,King Abdulaziz University Main Campus Station,West
+2014-01-01 00:00:00+03:00,912.34512,4141.0,4318.0,1755.0,24.4,354.0,2.2,61.9,1011.1,King Abdullah University of Science and Technology Station,West
+2014-01-01 00:00:00+03:00,970.72992,4406.0,3664.0,2192.0,26.4,275.0,2.3,75.7,1012.0,Al Qunfudhah Technical Institute Station,West
+2014-02-01 00:00:00+03:00,1177.16976,5343.0,5479.0,1889.0,24.9,357.0,2.4,58.2,1009.4,King Abdullah University of Science and Technology Station,West
+2014-02-01 00:00:00+03:00,1211.0990399999998,5497.0,6969.0,1367.0,23.2,333.0,3.6,50.9,1012.7,Saline Water Conversion Corporation (Umluj) Station,West
+2014-02-01 00:00:00+03:00,1189.9483199999995,5401.0,4883.0,2145.0,26.4,216.0,2.4,72.3,1010.1,Al Qunfudhah Technical Institute Station,West
+2014-02-01 00:00:00+03:00,1188.18576,5393.0,5428.0,1986.0,25.3,33.0,3.6,51.8,998.9,King Abdulaziz University (Osfan Campus) Station,West
+2014-02-01 00:00:00+03:00,1178.49168,5349.0,5219.0,2023.0,26.3,321.0,3.0,57.8,1005.0,King Abdulaziz University Main Campus Station,West
+2014-03-01 00:00:00+03:00,1378.9828799999998,6259.0,5670.0,2267.0,27.9,330.0,3.5,55.7,1003.6,King Abdulaziz University Main Campus Station,West
+2014-03-01 00:00:00+03:00,1349.9006399999998,6127.0,5667.0,2208.0,24.8,317.0,3.1,54.9,1010.8,Saline Water Conversion Corporation (Umluj) Station,West
+2014-03-01 00:00:00+03:00,1373.25456,6233.0,5337.0,2374.0,27.4,253.0,2.7,70.9,1009.1,Al Qunfudhah Technical Institute Station,West
+2014-03-01 00:00:00+03:00,1337.56272,6071.0,5209.0,2396.0,25.5,308.0,2.6,67.9,1008.0,King Abdullah University of Science and Technology Station,West
+2014-03-01 00:00:00+03:00,1373.25456,6233.0,5493.0,2391.0,27.0,346.0,3.4,52.2,997.6,King Abdulaziz University (Osfan Campus) Station,West
+2014-04-01 00:00:00+03:00,1462.04352,6636.0,5532.0,2539.0,27.8,309.0,3.0,58.3,1009.2,Saline Water Conversion Corporation (Umluj) Station,West
+2014-04-01 00:00:00+03:00,1414.67472,6421.0,4544.0,2944.0,31.5,332.0,3.5,49.3,1002.1,King Abdulaziz University Main Campus Station,West
+2014-04-01 00:00:00+03:00,1477.46592,6706.0,5047.0,2792.0,30.3,262.0,2.5,65.1,1007.5,Al Qunfudhah Technical Institute Station,West
+2014-04-01 00:00:00+03:00,1417.7592,6435.0,4776.0,2808.0,28.3,303.0,2.7,66.9,1006.4,King Abdullah University of Science and Technology Station,West
+2014-04-01 00:00:00+03:00,1382.9486399999998,6277.0,4370.0,2963.0,30.7,336.0,3.4,45.8,996.1,King Abdulaziz University (Osfan Campus) Station,West
+2014-05-01 00:00:00+03:00,1578.5928,7165.0,6076.0,2585.0,29.4,316.0,3.3,56.7,1007.8,Saline Water Conversion Corporation (Umluj) Station,West
+2014-05-01 00:00:00+03:00,1575.06768,7149.0,5736.0,2751.0,31.3,355.0,3.3,47.8,994.6,King Abdulaziz University (Osfan Campus) Station,West
+2014-05-01 00:00:00+03:00,1570.44096,7128.0,5622.0,2820.0,28.9,305.0,2.6,71.4,1005.0,King Abdullah University of Science and Technology Station,West
+2014-05-01 00:00:00+03:00,1522.4112,6910.0,5333.0,2727.0,31.1,258.0,2.9,68.7,1005.8,Al Qunfudhah Technical Institute Station,West
+2014-05-01 00:00:00+03:00,1577.05056,7158.0,5740.0,2758.0,32.0,332.0,4.0,51.3,1000.5,King Abdulaziz University Main Campus Station,West
+2014-06-01 00:00:00+03:00,1499.71824,6807.0,4050.0,3508.0,32.2,228.0,3.1,69.6,1002.7,Al Qunfudhah Technical Institute Station,West
+2014-06-01 00:00:00+03:00,1654.38288,7509.0,6143.0,2748.0,30.2,304.0,2.7,73.3,1002.1,King Abdullah University of Science and Technology Station,West
+2014-06-01 00:00:00+03:00,1635.4353600000002,7423.0,5974.0,2789.0,32.9,358.0,3.5,48.0,991.9,King Abdulaziz University (Osfan Campus) Station,West
+2014-06-01 00:00:00+03:00,1719.15696,7803.0,7431.0,2233.0,31.1,317.0,3.5,57.8,1005.3,Saline Water Conversion Corporation (Umluj) Station,West
+2014-06-01 00:00:00+03:00,1629.70704,7397.0,5845.0,2862.0,33.7,336.0,4.8,50.9,997.7,King Abdulaziz University Main Campus Station,West
+2014-07-01 00:00:00+03:00,1576.83024,7157.0,5554.0,2816.0,35.5,332.0,4.1,45.3,997.7,King Abdulaziz University Main Campus Station,West
+2014-07-01 00:00:00+03:00,1612.5220800000002,7319.0,6230.0,2499.0,31.6,300.0,2.6,71.0,1002.2,King Abdullah University of Science and Technology Station,West
+2014-07-01 00:00:00+03:00,1422.60624,6457.0,3504.0,3540.0,32.8,57.0,4.0,63.2,1002.7,Al Qunfudhah Technical Institute Station,West
+2014-07-01 00:00:00+03:00,1592.9136,7230.0,5859.0,2674.0,34.3,355.0,3.1,44.6,992.0,King Abdulaziz University (Osfan Campus) Station,West
+2014-07-01 00:00:00+03:00,1700.20944,7717.0,8153.0,1703.0,31.8,301.0,3.0,64.8,1004.7,Saline Water Conversion Corporation (Umluj) Station,West
+2014-08-01 00:00:00+03:00,1548.4089599999998,7028.0,6618.0,2111.0,32.8,312.0,3.2,60.7,1004.1,Saline Water Conversion Corporation (Umluj) Station,West
+2014-08-01 00:00:00+03:00,1507.87008,6844.0,5531.0,2589.0,34.4,339.0,3.1,50.6,990.9,King Abdulaziz University (Osfan Campus) Station,West
+2014-08-01 00:00:00+03:00,1511.1748799999998,6859.0,5654.0,2500.0,32.1,287.0,2.6,73.4,1001.1,King Abdullah University of Science and Technology Station,West
+2014-08-01 00:00:00+03:00,1509.85296,6853.0,5507.0,2584.0,35.3,328.0,4.1,52.9,996.9,King Abdulaziz University Main Campus Station,West
+2014-08-01 00:00:00+03:00,1385.37216,6288.0,3303.0,3538.0,33.0,104.0,3.8,70.2,1002.2,Al Qunfudhah Technical Institute Station,West
+2014-09-01 00:00:00+03:00,1359.81504,6172.0,4925.0,2524.0,30.5,304.0,2.5,78.4,1003.7,King Abdullah University of Science and Technology Station,West
+2014-09-01 00:00:00+03:00,1341.3081599999998,6088.0,4038.0,2942.0,32.0,191.0,3.2,74.8,1004.4,Al Qunfudhah Technical Institute Station,West
+2014-09-01 00:00:00+03:00,1362.01824,6182.0,4872.0,2579.0,32.1,353.0,3.1,61.2,993.5,King Abdulaziz University (Osfan Campus) Station,West
+2014-09-01 00:00:00+03:00,1427.45328,6479.0,6735.0,1760.0,30.4,318.0,3.4,66.5,1006.4,Saline Water Conversion Corporation (Umluj) Station,West
+2014-09-01 00:00:00+03:00,1353.8664,6145.0,4767.0,2620.0,32.9,332.0,4.6,63.4,999.2,King Abdulaziz University Main Campus Station,West
+2014-10-01 00:00:00+03:00,1188.40608,5394.0,6009.0,1634.0,28.4,320.0,3.5,60.5,1010.6,Saline Water Conversion Corporation (Umluj) Station,West
+2014-10-01 00:00:00+03:00,1263.09456,5733.0,5360.0,2072.0,30.5,237.0,2.7,72.7,1008.8,Al Qunfudhah Technical Institute Station,West
+2014-10-01 00:00:00+03:00,1245.2486399999998,5652.0,5924.0,1766.0,29.2,305.0,2.3,77.2,1007.8,King Abdullah University of Science and Technology Station,West
+2014-10-01 00:00:00+03:00,1247.45184,5662.0,5904.0,1793.0,30.2,354.0,2.7,64.8,997.5,King Abdulaziz University (Osfan Campus) Station,West
+2014-10-01 00:00:00+03:00,1236.65616,5613.0,5648.0,1878.0,31.1,332.0,3.6,68.6,1003.4,King Abdulaziz University Main Campus Station,West
+2014-11-01 00:00:00+03:00,1055.11248,4789.0,5910.0,1407.0,27.0,342.0,2.3,62.2,1010.1,King Abdullah University of Science and Technology Station,West
+2014-11-01 00:00:00+03:00,1055.77344,4792.0,4881.0,1827.0,28.8,223.0,2.4,68.0,1010.7,Al Qunfudhah Technical Institute Station,West
+2014-11-01 00:00:00+03:00,1036.38528,4704.0,5597.0,1476.0,27.6,31.0,2.9,53.7,999.4,King Abdulaziz University (Osfan Campus) Station,West
+2014-11-01 00:00:00+03:00,1031.75856,4683.0,6547.0,1120.0,26.0,328.0,3.0,52.8,1013.0,Saline Water Conversion Corporation (Umluj) Station,West
+2014-11-01 00:00:00+03:00,1015.01424,4607.0,5263.0,1553.0,28.5,345.0,3.0,60.4,1005.6,King Abdulaziz University Main Campus Station,West
+2014-12-01 00:00:00+03:00,972.27216,4413.0,4746.0,1675.0,27.2,274.0,2.2,76.7,1012.7,Al Qunfudhah Technical Institute Station,West
+2014-12-01 00:00:00+03:00,875.99232,3976.0,5247.0,1290.0,25.0,335.0,2.9,55.8,1014.6,Saline Water Conversion Corporation (Umluj) Station,West
+2014-12-01 00:00:00+03:00,948.25728,4304.0,5064.0,1554.0,26.8,28.0,2.9,58.6,1001.2,King Abdulaziz University (Osfan Campus) Station,West
+2014-12-01 00:00:00+03:00,933.93648,4239.0,4767.0,1635.0,27.8,347.0,2.9,65.4,1007.3,King Abdulaziz University Main Campus Station,West
+2014-12-01 00:00:00+03:00,962.13744,4367.0,5476.0,1392.0,26.3,332.0,2.2,67.4,1011.9,King Abdullah University of Science and Technology Station,West
+2015-01-01 00:00:00+03:00,1033.52112,4691.0,5505.0,1626.0,23.6,30.0,3.6,54.7,1003.0,King Abdulaziz University (Osfan Campus) Station,West
+2015-01-01 00:00:00+03:00,972.49248,4414.0,6051.0,1259.0,21.2,336.0,3.2,48.9,1017.0,Saline Water Conversion Corporation (Umluj) Station,West
+2015-01-01 00:00:00+03:00,1045.19808,4744.0,5899.0,1469.0,23.1,355.0,2.6,61.8,1013.8,King Abdullah University of Science and Technology Station,West
+2015-01-01 00:00:00+03:00,1018.75968,4624.0,5193.0,1701.0,24.9,350.0,3.9,60.8,1009.0,King Abdulaziz University Main Campus Station,West
+2015-01-01 00:00:00+03:00,1043.43552,4736.0,4480.0,2031.0,25.5,259.0,2.8,70.1,1013.8,Al Qunfudhah Technical Institute Station,West
+2015-02-01 00:00:00+03:00,1109.75184,5037.0,5042.0,1981.0,22.6,315.0,3.2,59.1,1013.0,Saline Water Conversion Corporation (Umluj) Station,West
+2015-02-01 00:00:00+03:00,1209.77712,5491.0,5107.0,2135.0,26.0,279.0,2.5,77.0,1010.9,Al Qunfudhah Technical Institute Station,West
+2015-02-01 00:00:00+03:00,1196.3375999999998,5430.0,5446.0,2004.0,25.2,359.0,3.3,61.6,999.7,King Abdulaziz University (Osfan Campus) Station,West
+2015-02-01 00:00:00+03:00,1184.22,5375.0,5306.0,2024.0,26.3,334.0,3.6,67.9,1005.6,King Abdulaziz University Main Campus Station,West
+2015-02-01 00:00:00+03:00,1200.52368,5449.0,5624.0,1905.0,24.4,322.0,2.5,72.5,1010.2,King Abdullah University of Science and Technology Station,West
+2015-03-01 00:00:00+03:00,1311.78528,5954.0,4544.0,2629.0,28.3,278.0,2.2,71.7,1009.3,Al Qunfudhah Technical Institute Station,West
+2015-03-01 00:00:00+03:00,1310.24304,5947.0,4562.0,2676.0,27.5,2.0,3.3,59.5,998.1,King Abdulaziz University (Osfan Campus) Station,West
+2015-03-01 00:00:00+03:00,1302.53184,5912.0,4710.0,2543.0,26.0,316.0,2.5,74.8,1008.5,King Abdullah University of Science and Technology Station,West
+2015-03-01 00:00:00+03:00,1275.43248,5789.0,4414.0,2656.0,28.3,333.0,4.0,64.9,1004.0,King Abdulaziz University Main Campus Station,West
+2015-03-01 00:00:00+03:00,1343.952,6100.0,5740.0,2205.0,24.5,315.0,3.5,62.4,1011.5,Saline Water Conversion Corporation (Umluj) Station,West
+2015-04-01 00:00:00+03:00,1397.26944,6342.0,3264.0,3706.0,29.5,269.0,2.5,68.7,1008.3,Al Qunfudhah Technical Institute Station,West
+2015-04-01 00:00:00+03:00,1455.87456,6608.0,4025.0,3483.0,28.1,8.0,3.8,51.6,997.5,King Abdulaziz University (Osfan Campus) Station,West
+2015-04-01 00:00:00+03:00,1443.53664,6552.0,3965.0,3453.0,28.9,333.0,4.9,55.7,1003.3,King Abdulaziz University Main Campus Station,West
+2015-04-01 00:00:00+03:00,1595.1168,7240.0,6300.0,2659.0,24.9,316.0,3.6,57.8,1011.5,Saline Water Conversion Corporation (Umluj) Station,West
+2015-04-01 00:00:00+03:00,1471.7376,6680.0,4457.0,3230.0,26.3,322.0,2.8,70.9,1008.1,King Abdullah University of Science and Technology Station,West
+2015-05-01 00:00:00+03:00,1537.8336000000002,6980.0,4887.0,3074.0,31.9,261.0,2.6,71.4,1005.9,Al Qunfudhah Technical Institute Station,West
+2015-05-01 00:00:00+03:00,1512.27648,6864.0,4747.0,3171.0,29.5,303.0,2.5,73.0,1004.9,King Abdullah University of Science and Technology Station,West
+2015-05-01 00:00:00+03:00,1571.76288,7134.0,5920.0,2644.0,29.0,309.0,2.9,58.6,1008.1,Saline Water Conversion Corporation (Umluj) Station,West
+2015-05-01 00:00:00+03:00,1534.9694399999998,6967.0,4905.0,3151.0,33.3,325.0,3.8,52.4,1000.2,King Abdulaziz University Main Campus Station,West
+2015-05-01 00:00:00+03:00,1543.7822399999998,7007.0,4870.0,3226.0,32.4,347.0,3.2,48.1,994.7,King Abdulaziz University (Osfan Campus) Station,West
+2015-06-01 00:00:00+03:00,1606.57344,7292.0,5434.0,3130.0,33.3,332.0,4.8,50.6,998.3,King Abdulaziz University Main Campus Station,West
+2015-06-01 00:00:00+03:00,1646.23104,7472.0,5628.0,3165.0,32.4,3.0,3.3,47.9,993.1,King Abdulaziz University (Osfan Campus) Station,West
+2015-06-01 00:00:00+03:00,1734.57936,7873.0,7446.0,2326.0,29.4,310.0,3.4,63.3,1006.2,Saline Water Conversion Corporation (Umluj) Station,West
+2015-06-01 00:00:00+03:00,1620.23328,7354.0,5553.0,3080.0,29.7,304.0,2.5,74.4,1003.0,King Abdullah University of Science and Technology Station,West
+2015-06-01 00:00:00+03:00,1527.9192000000005,6935.0,4382.0,3449.0,32.4,240.0,3.2,68.7,1003.2,Al Qunfudhah Technical Institute Station,West
+2015-07-01 00:00:00+03:00,1647.77328,7479.0,6156.0,2720.0,34.2,8.0,3.4,41.6,991.9,King Abdulaziz University (Osfan Campus) Station,West
+2015-07-01 00:00:00+03:00,1493.1086400000002,6777.0,3979.0,3512.0,32.6,183.0,3.6,64.7,1002.0,Al Qunfudhah Technical Institute Station,West
+2015-07-01 00:00:00+03:00,1635.8760000000002,7425.0,6328.0,2545.0,31.3,310.0,2.5,71.4,1002.0,King Abdullah University of Science and Technology Station,West
+2015-07-01 00:00:00+03:00,1618.03008,7344.0,5851.0,2817.0,35.5,333.0,4.6,42.1,997.3,King Abdulaziz University Main Campus Station,West
+2015-07-01 00:00:00+03:00,1724.2243199999998,7826.0,8312.0,1713.0,31.5,306.0,3.0,63.6,1004.6,Saline Water Conversion Corporation (Umluj) Station,West
+2015-08-01 00:00:00+03:00,1422.38592,6456.0,3909.0,3319.0,36.0,311.0,3.4,61.0,996.6,King Abdulaziz University Main Campus Station,West
+2015-08-01 00:00:00+03:00,1449.92592,6581.0,4170.0,3259.0,35.6,307.0,3.0,54.2,991.1,King Abdulaziz University (Osfan Campus) Station,West
+2015-08-01 00:00:00+03:00,1350.34128,6129.0,3095.0,3531.0,33.6,220.0,3.0,71.5,1002.5,Al Qunfudhah Technical Institute Station,West
+2015-08-01 00:00:00+03:00,1438.24896,6528.0,4705.0,2928.0,33.7,309.0,3.3,64.0,1004.7,Saline Water Conversion Corporation (Umluj) Station,West
+2015-08-01 00:00:00+03:00,1428.11424,6482.0,4051.0,3251.0,33.0,272.0,2.7,79.5,1000.9,King Abdullah University of Science and Technology Station,West
+2015-09-01 00:00:00+03:00,1352.7648000000002,6140.0,4470.0,2801.0,32.0,284.0,2.5,80.7,1003.6,King Abdullah University of Science and Technology Station,West
+2015-09-01 00:00:00+03:00,1345.0536,6105.0,4373.0,2822.0,34.6,320.0,3.3,65.8,999.2,King Abdulaziz University Main Campus Station,West
+2015-09-01 00:00:00+03:00,1354.30704,6147.0,4094.0,2963.0,33.0,238.0,2.6,75.2,1005.0,Al Qunfudhah Technical Institute Station,West
+2015-09-01 00:00:00+03:00,1378.9828799999998,6259.0,5446.0,2324.0,31.8,312.0,3.2,65.0,1009.4,Saline Water Conversion Corporation (Umluj) Station,West
+2015-09-01 00:00:00+03:00,1368.84816,6213.0,4545.0,2822.0,33.9,326.0,2.6,60.1,993.8,King Abdulaziz University (Osfan Campus) Station,West
+2015-10-01 00:00:00+03:00,1232.02944,5592.0,4852.0,2213.0,31.6,251.0,2.5,71.3,1008.5,Al Qunfudhah Technical Institute Station,West
+2015-10-01 00:00:00+03:00,1177.39008,5344.0,5504.0,1849.0,30.4,311.0,2.8,62.3,1010.2,Saline Water Conversion Corporation (Umluj) Station,West
+2015-10-01 00:00:00+03:00,1214.4038400000002,5512.0,4966.0,2166.0,32.4,351.0,2.9,57.2,997.2,King Abdulaziz University (Osfan Campus) Station,West
+2015-10-01 00:00:00+03:00,1191.9312,5410.0,4822.0,2196.0,30.7,359.0,0.1,76.5,1007.3,King Abdullah University of Science and Technology Station,West
+2015-10-01 00:00:00+03:00,1183.7793599999998,5373.0,4679.0,2200.0,33.1,322.0,2.8,64.6,1002.9,King Abdulaziz University Main Campus Station,West
+2015-11-01 00:00:00+03:00,1015.89552,4611.0,4948.0,1711.0,29.6,338.0,3.3,68.9,1004.5,King Abdulaziz University Main Campus Station,West
+2015-11-01 00:00:00+03:00,1029.996,4675.0,6288.0,1229.0,26.9,333.0,3.3,56.9,1011.7,Saline Water Conversion Corporation (Umluj) Station,West
+2015-11-01 00:00:00+03:00,1061.50176,4818.0,4700.0,1912.0,29.7,267.0,2.5,72.1,1009.7,Al Qunfudhah Technical Institute Station,West
+2015-11-01 00:00:00+03:00,1034.18208,4694.0,5232.0,1665.0,28.5,21.0,3.2,61.6,998.8,King Abdulaziz University (Osfan Campus) Station,West
+2015-11-01 00:00:00+03:00,1041.012,4725.0,5461.0,1550.0,27.9,322.0,0.4,72.7,1009.1,King Abdullah University of Science and Technology Station,West
+2015-12-01 00:00:00+03:00,846.24912,3841.0,3950.0,1704.0,24.3,5.0,2.7,61.8,1013.5,King Abdullah University of Science and Technology Station,West
+2015-12-01 00:00:00+03:00,839.4191999999999,3810.0,3727.0,1808.0,24.4,34.0,3.7,56.2,1003.0,King Abdulaziz University (Osfan Campus) Station,West
+2015-12-01 00:00:00+03:00,922.70016,4188.0,6138.0,1096.0,22.2,349.0,3.7,46.9,1016.8,Saline Water Conversion Corporation (Umluj) Station,West
+2015-12-01 00:00:00+03:00,883.04256,4008.0,3522.0,1986.0,27.4,268.0,2.5,68.2,1013.3,Al Qunfudhah Technical Institute Station,West
+2015-12-01 00:00:00+03:00,830.3860800000001,3769.0,3508.0,1870.0,25.6,347.0,4.5,61.5,1008.6,King Abdulaziz University Main Campus Station,West
+2016-01-01 00:00:00+03:00,948.91824,4307.0,4108.0,1994.0,23.4,23.0,3.7,59.3,1002.9,King Abdulaziz University (Osfan Campus) Station,West
+2016-01-01 00:00:00+03:00,946.2744,4295.0,4040.0,1994.0,24.7,339.0,4.1,66.5,1008.6,King Abdulaziz University Main Campus Station,West
+2016-01-01 00:00:00+03:00,978.4411199999998,4441.0,3999.0,2064.0,26.1,267.0,2.6,70.9,1013.4,Al Qunfudhah Technical Institute Station,West
+2016-01-01 00:00:00+03:00,972.7128,4415.0,4497.0,1861.0,23.1,355.0,2.7,67.4,1013.4,King Abdullah University of Science and Technology Station,West
+2016-01-01 00:00:00+03:00,987.91488,4484.0,5658.0,1492.0,20.7,338.0,3.3,51.0,1016.8,Saline Water Conversion Corporation (Umluj) Station,West
+2016-02-01 00:00:00+03:00,1230.26688,5584.0,6990.0,1434.0,22.9,333.0,3.1,53.1,1015.3,Saline Water Conversion Corporation (Umluj) Station,West
+2016-02-01 00:00:00+03:00,1168.7976,5305.0,4459.0,2360.0,26.6,289.0,2.5,76.8,1012.5,Al Qunfudhah Technical Institute Station,West
+2016-02-01 00:00:00+03:00,1159.54416,5263.0,5046.0,2058.0,26.3,337.0,3.7,62.4,1007.3,King Abdulaziz University Main Campus Station,West
+2016-02-01 00:00:00+03:00,1179.1526399999998,5352.0,5464.0,1917.0,25.5,39.0,3.8,52.3,1001.6,King Abdulaziz University (Osfan Campus) Station,West
+2016-02-01 00:00:00+03:00,1176.28848,5339.0,5497.0,1930.0,24.5,356.0,2.7,64.7,1012.1,King Abdullah University of Science and Technology Station,West
+2016-03-01 00:00:00+03:00,1330.7328,6040.0,4970.0,2538.0,26.5,317.0,2.7,77.0,1008.0,King Abdullah University of Science and Technology Station,West
+2016-03-01 00:00:00+03:00,1301.43024,5907.0,4743.0,2584.0,28.9,326.0,4.2,65.1,1003.4,King Abdulaziz University Main Campus Station,West
+2016-03-01 00:00:00+03:00,1263.09456,5733.0,4759.0,2496.0,25.3,314.0,3.4,58.2,1010.8,Saline Water Conversion Corporation (Umluj) Station,West
+2016-03-01 00:00:00+03:00,1372.15296,6228.0,5005.0,2588.0,28.9,288.0,2.4,75.0,1008.7,Al Qunfudhah Technical Institute Station,West
+2016-03-01 00:00:00+03:00,1315.97136,5973.0,4832.0,2590.0,28.0,350.0,3.7,58.9,997.7,King Abdulaziz University (Osfan Campus) Station,West
+2016-04-01 00:00:00+03:00,1525.27536,6923.0,6164.0,2348.0,29.0,328.0,2.7,68.3,1006.3,King Abdullah University of Science and Technology Station,West
+2016-04-01 00:00:00+03:00,1503.6839999999995,6825.0,5950.0,2433.0,31.9,321.0,2.9,55.3,1001.7,King Abdulaziz University Main Campus Station,West
+2016-04-01 00:00:00+03:00,1440.8928,6540.0,5256.0,2542.0,31.2,275.0,2.5,62.9,1007.1,Al Qunfudhah Technical Institute Station,West
+2016-04-01 00:00:00+03:00,1589.38848,7214.0,7094.0,2096.0,28.1,301.0,2.8,54.5,1009.4,Saline Water Conversion Corporation (Umluj) Station,West
+2016-04-01 00:00:00+03:00,1539.37584,6987.0,6218.0,2417.0,31.1,8.0,3.3,46.9,996.1,King Abdulaziz University (Osfan Campus) Station,West
+2016-05-01 00:00:00+03:00,1726.2071999999998,7835.0,7682.0,2112.0,29.7,309.0,3.2,59.0,1007.9,Saline Water Conversion Corporation (Umluj) Station,West
+2016-05-01 00:00:00+03:00,1659.0096,7530.0,6560.0,2480.0,32.5,356.0,3.4,52.2,995.2,King Abdulaziz University (Osfan Campus) Station,West
+2016-05-01 00:00:00+03:00,1661.43312,7541.0,6730.0,2371.0,30.2,312.0,2.6,77.8,1005.2,King Abdullah University of Science and Technology Station,West
+2016-05-01 00:00:00+03:00,1625.08032,7376.0,6251.0,2554.0,33.3,326.0,4.3,57.8,1000.5,King Abdulaziz University Main Campus Station,West
+2016-05-01 00:00:00+03:00,1477.68624,6707.0,4282.0,3234.0,32.1,264.0,2.9,72.6,1005.7,Al Qunfudhah Technical Institute Station,West
+2016-06-01 00:00:00+03:00,1594.0152,7235.0,5482.0,2960.0,35.2,322.0,3.9,54.2,997.6,King Abdulaziz University Main Campus Station,West
+2016-06-01 00:00:00+03:00,1622.6568,7365.0,5749.0,2864.0,31.2,290.0,2.6,81.6,1002.1,King Abdullah University of Science and Technology Station,West
+2016-06-01 00:00:00+03:00,1623.31776,7368.0,5657.0,2942.0,34.4,342.0,3.0,48.4,992.2,King Abdulaziz University (Osfan Campus) Station,West
+2016-06-01 00:00:00+03:00,1438.02864,6527.0,3558.0,3620.0,33.2,254.0,3.2,68.7,1002.9,Al Qunfudhah Technical Institute Station,West
+2016-06-01 00:00:00+03:00,1743.17184,7912.0,7555.0,2249.0,32.5,309.0,3.0,58.9,1004.5,Saline Water Conversion Corporation (Umluj) Station,West
+2016-07-01 00:00:00+03:00,1685.00736,7648.0,7836.0,1845.0,32.2,296.0,3.0,67.6,1003.3,Saline Water Conversion Corporation (Umluj) Station,West
+2016-07-01 00:00:00+03:00,1493.1086400000002,6777.0,4814.0,3029.0,35.7,321.0,4.3,53.4,996.4,King Abdulaziz University Main Campus Station,West
+2016-07-01 00:00:00+03:00,1513.37808,6869.0,5330.0,2745.0,32.4,297.0,2.6,79.1,1000.8,King Abdullah University of Science and Technology Station,West
+2016-07-01 00:00:00+03:00,1353.42576,6143.0,2899.0,3735.0,33.1,240.0,3.7,68.0,1001.6,Al Qunfudhah Technical Institute Station,West
+2016-07-01 00:00:00+03:00,1525.4956800000002,6924.0,5172.0,2918.0,34.7,346.0,3.6,49.3,991.0,King Abdulaziz University (Osfan Campus) Station,West
+2016-08-01 00:00:00+03:00,1334.69856,6058.0,3352.0,3281.0,33.0,246.0,3.4,73.7,1003.3,Al Qunfudhah Technical Institute Station,West
+2016-08-01 00:00:00+03:00,1431.85968,6499.0,4704.0,2797.0,32.2,284.0,2.7,85.0,1001.8,King Abdullah University of Science and Technology Station,West
+2016-08-01 00:00:00+03:00,1414.01376,6418.0,4541.0,2842.0,33.8,322.0,3.1,61.6,992.0,King Abdulaziz University (Osfan Campus) Station,West
+2016-08-01 00:00:00+03:00,1512.05616,6863.0,6058.0,2333.0,32.0,304.0,3.3,68.2,1004.4,Saline Water Conversion Corporation (Umluj) Station,West
+2016-08-01 00:00:00+03:00,1380.96576,6268.0,4290.0,2920.0,34.6,313.0,3.8,68.1,997.4,King Abdulaziz University Main Campus Station,West
+2016-09-01 00:00:00+03:00,1406.7432,6385.0,6100.0,2052.0,30.8,305.0,3.3,68.4,1006.1,Saline Water Conversion Corporation (Umluj) Station,West
+2016-09-01 00:00:00+03:00,1343.73168,6099.0,4563.0,2687.0,31.4,298.0,2.4,90.1,1003.4,King Abdullah University of Science and Technology Station,West
+2016-09-01 00:00:00+03:00,1351.00224,6132.0,4586.0,2676.0,33.7,322.0,3.8,75.1,998.9,King Abdulaziz University Main Campus Station,West
+2016-09-01 00:00:00+03:00,1337.78304,6072.0,4528.0,2652.0,32.8,336.0,2.8,69.0,993.4,King Abdulaziz University (Osfan Campus) Station,West
+2016-09-01 00:00:00+03:00,1297.90512,5891.0,3898.0,2828.0,32.7,256.0,2.9,76.2,1004.6,Al Qunfudhah Technical Institute Station,West
+2016-10-01 00:00:00+03:00,1201.18464,5452.0,4998.0,2113.0,31.9,311.0,2.5,77.2,1002.5,King Abdulaziz University Main Campus Station,West
+2016-10-01 00:00:00+03:00,1209.99744,5492.0,5117.0,2068.0,29.4,290.0,2.1,91.2,1007.0,King Abdullah University of Science and Technology Station,West
+2016-10-01 00:00:00+03:00,1169.45856,5308.0,5518.0,1783.0,29.7,300.0,2.6,66.1,1009.2,Saline Water Conversion Corporation (Umluj) Station,West
+2016-10-01 00:00:00+03:00,1217.268,5525.0,5253.0,2001.0,31.1,325.0,2.2,68.4,996.9,King Abdulaziz University (Osfan Campus) Station,West
+2016-10-01 00:00:00+03:00,1222.55568,5549.0,5042.0,2064.0,30.8,271.0,2.6,74.6,1008.3,Al Qunfudhah Technical Institute Station,West
+2016-11-01 00:00:00+03:00,1042.55424,4732.0,5250.0,1669.0,28.2,339.0,2.3,71.6,1010.2,King Abdullah University of Science and Technology Station,West
+2016-11-01 00:00:00+03:00,1024.2676800000002,4649.0,4878.0,1778.0,28.9,9.0,2.6,59.8,1000.0,King Abdulaziz University (Osfan Campus) Station,West
+2016-11-01 00:00:00+03:00,1017.21744,4617.0,4676.0,1768.0,28.9,242.0,2.2,73.5,1011.4,Al Qunfudhah Technical Institute Station,West
+2016-11-01 00:00:00+03:00,1037.7072,4710.0,6244.0,1264.0,27.2,325.0,2.7,50.3,1013.3,Saline Water Conversion Corporation (Umluj) Station,West
+2016-11-01 00:00:00+03:00,1008.84528,4579.0,4569.0,1863.0,30.0,332.0,2.7,71.1,1005.6,King Abdulaziz University Main Campus Station,West
+2016-12-01 00:00:00+03:00,981.30528,4454.0,5135.0,1525.0,27.6,284.0,2.3,76.5,1013.1,Al Qunfudhah Technical Institute Station,West
+2016-12-01 00:00:00+03:00,902.87136,4098.0,4382.0,1722.0,25.5,16.0,3.0,69.1,1002.2,King Abdulaziz University (Osfan Campus) Station,West
+2016-12-01 00:00:00+03:00,904.63392,4106.0,4468.0,1675.0,25.2,348.0,2.3,79.2,1012.8,King Abdullah University of Science and Technology Station,West
+2016-12-01 00:00:00+03:00,914.54832,4151.0,5574.0,1328.0,22.7,326.0,3.2,48.9,1016.2,Saline Water Conversion Corporation (Umluj) Station,West
+2016-12-01 00:00:00+03:00,907.7184,4120.0,4385.0,1711.0,26.8,334.0,3.7,78.3,1008.0,King Abdulaziz University Main Campus Station,West
+2017-01-01 00:00:00+03:00,979.98336,4448.0,6085.0,1234.0,21.5,324.0,3.1,58.2,1015.2,Saline Water Conversion Corporation (Umluj) Station,West
+2017-01-01 00:00:00+03:00,1014.13296,4603.0,4826.0,1731.0,26.5,278.0,2.3,76.5,1012.8,Al Qunfudhah Technical Institute Station,West
+2017-01-01 00:00:00+03:00,978.4411199999998,4441.0,5143.0,1551.0,23.9,337.0,2.2,83.6,1012.4,King Abdullah University of Science and Technology Station,West
+2017-01-01 00:00:00+03:00,953.32464,4327.0,4920.0,1567.0,24.4,8.0,2.9,71.7,1001.7,King Abdulaziz University (Osfan Campus) Station,West
+2017-01-01 00:00:00+03:00,920.9376,4180.0,4609.0,1566.0,25.6,329.0,3.4,80.0,1007.6,King Abdulaziz University Main Campus Station,West
+2017-02-01 00:00:00+03:00,998.0496,4530.0,3524.0,2316.0,23.3,356.0,2.7,65.1,1012.1,King Abdullah University of Science and Technology Station,West
+2017-02-01 00:00:00+03:00,896.4820800000001,4069.0,2317.0,2493.0,26.4,271.0,2.5,71.1,1012.0,Al Qunfudhah Technical Institute Station,West
+2017-02-01 00:00:00+03:00,1164.17088,5284.0,5960.0,1716.0,21.2,334.0,3.5,46.3,1015.4,Saline Water Conversion Corporation (Umluj) Station,West
+2017-02-01 00:00:00+03:00,961.6968,4365.0,3136.0,2375.0,23.8,21.0,3.9,54.7,1001.3,King Abdulaziz University (Osfan Campus) Station,West
+2017-02-01 00:00:00+03:00,892.73664,4052.0,2999.0,2135.0,24.8,337.0,4.4,63.8,1007.1,King Abdulaziz University Main Campus Station,West
+2017-03-01 00:00:00+03:00,1226.96208,5569.0,4086.0,2671.0,25.9,357.0,3.6,64.0,997.8,King Abdulaziz University (Osfan Campus) Station,West
+2017-03-01 00:00:00+03:00,1117.46304,5072.0,3507.0,2543.0,26.8,323.0,4.1,72.5,1003.5,King Abdulaziz University Main Campus Station,West
+2017-03-01 00:00:00+03:00,1261.55232,5726.0,4486.0,2544.0,24.6,321.0,2.6,83.6,1008.4,King Abdullah University of Science and Technology Station,West
+2017-03-01 00:00:00+03:00,1140.156,5175.0,3456.0,2617.0,28.0,278.0,2.6,72.8,1008.9,Al Qunfudhah Technical Institute Station,West
+2017-03-01 00:00:00+03:00,1354.74768,6149.0,6196.0,2006.0,23.1,304.0,3.3,61.4,1010.9,Saline Water Conversion Corporation (Umluj) Station,West
+2017-04-01 00:00:00+03:00,1336.02048,6064.0,4292.0,2709.0,30.6,281.0,2.6,65.0,1007.7,Al Qunfudhah Technical Institute Station,West
+2017-04-01 00:00:00+03:00,1343.73168,6099.0,3978.0,3027.0,27.9,305.0,2.8,80.6,1007.1,King Abdullah University of Science and Technology Station,West
+2017-04-01 00:00:00+03:00,1349.0193599999998,6123.0,4026.0,2994.0,30.2,344.0,3.8,53.4,996.6,King Abdulaziz University (Osfan Campus) Station,West
+2017-04-01 00:00:00+03:00,1410.92928,6404.0,4909.0,2767.0,27.0,305.0,3.6,57.2,1009.5,Saline Water Conversion Corporation (Umluj) Station,West
+2017-04-01 00:00:00+03:00,1256.0443199999995,5701.0,3693.0,2831.0,30.9,322.0,4.2,60.5,1002.2,King Abdulaziz University Main Campus Station,West
+2017-05-01 00:00:00+03:00,1550.17152,7036.0,6148.0,2420.0,29.3,302.0,2.9,61.5,1008.2,Saline Water Conversion Corporation (Umluj) Station,West
+2017-05-01 00:00:00+03:00,1373.91552,6236.0,4368.0,2792.0,33.5,320.0,4.2,55.1,1000.6,King Abdulaziz University Main Campus Station,West
+2017-05-01 00:00:00+03:00,1313.5478400000002,5962.0,3961.0,2792.0,32.1,275.0,2.9,71.3,1006.0,Al Qunfudhah Technical Institute Station,West
+2017-05-01 00:00:00+03:00,1442.43504,6547.0,4517.0,2984.0,32.7,354.0,3.6,49.6,995.2,King Abdulaziz University (Osfan Campus) Station,West
+2017-05-01 00:00:00+03:00,1357.39152,6161.0,4210.0,2852.0,29.8,312.0,2.6,83.8,1005.5,King Abdullah University of Science and Technology Station,West
+2017-06-01 00:00:00+03:00,1310.24304,5947.0,3624.0,2960.0,32.6,268.0,2.9,74.7,1002.2,Al Qunfudhah Technical Institute Station,West
+2017-06-01 00:00:00+03:00,1643.5871999999997,7460.0,7202.0,2042.0,30.5,300.0,3.1,65.7,1004.4,Saline Water Conversion Corporation (Umluj) Station,West
+2017-06-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2017-06-01 00:00:00+03:00,1493.3289599999998,6778.0,5721.0,2344.0,29.9,289.0,2.5,92.4,1001.6,King Abdullah University of Science and Technology Station,West
+2017-06-01 00:00:00+03:00,1460.28096,6628.0,5244.0,2515.0,33.7,318.0,3.9,65.0,996.9,King Abdulaziz University Main Campus Station,West
+2017-07-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2017-07-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2017-07-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2017-07-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2017-07-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2017-08-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2017-08-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2017-08-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2017-08-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2017-08-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2017-09-01 00:00:00+03:00,1317.95424,5982.0,4310.0,2723.0,33.9,317.0,3.6,77.9,998.8,King Abdulaziz University Main Campus Station,West
+2017-09-01 00:00:00+03:00,1358.05248,6164.0,5045.0,2512.0,30.6,305.0,3.1,69.0,1006.3,Saline Water Conversion Corporation (Umluj) Station,West
+2017-09-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2017-09-01 00:00:00+03:00,1357.1712,6160.0,4681.0,2631.0,31.4,289.0,2.5,93.7,1003.3,King Abdullah University of Science and Technology Station,West
+2017-09-01 00:00:00+03:00,1312.66656,5958.0,3643.0,3070.0,32.2,261.0,2.8,79.4,1004.5,Al Qunfudhah Technical Institute Station,West
+2017-10-01 00:00:00+03:00,1240.4016,5630.0,5825.0,1789.0,29.0,309.0,2.1,95.9,1007.0,King Abdullah University of Science and Technology Station,West
+2017-10-01 00:00:00+03:00,1248.77376,5668.0,5202.0,2092.0,30.5,269.0,2.5,78.4,1007.8,Al Qunfudhah Technical Institute Station,West
+2017-10-01 00:00:00+03:00,1245.68928,5654.0,5869.0,1765.0,30.6,352.0,2.7,72.4,996.7,King Abdulaziz University (Osfan Campus) Station,West
+2017-10-01 00:00:00+03:00,1240.84224,5632.0,6765.0,1425.0,28.0,313.0,3.3,65.7,1010.5,Saline Water Conversion Corporation (Umluj) Station,West
+2017-10-01 00:00:00+03:00,1225.41984,5562.0,5583.0,1836.0,31.4,325.0,3.6,85.1,1002.5,King Abdulaziz University Main Campus Station,West
+2017-11-01 00:00:00+03:00,1001.57472,4546.0,5940.0,1284.0,26.0,314.0,2.8,59.8,1012.2,Saline Water Conversion Corporation (Umluj) Station,West
+2017-11-01 00:00:00+03:00,999.81216,4538.0,4843.0,1686.0,27.5,322.0,2.3,88.8,1009.6,King Abdullah University of Science and Technology Station,West
+2017-11-01 00:00:00+03:00,984.61008,4469.0,4521.0,1803.0,29.2,328.0,3.3,83.0,1005.0,King Abdulaziz University Main Campus Station,West
+2017-11-01 00:00:00+03:00,1043.87616,4738.0,4619.0,1912.0,29.1,265.0,2.3,74.2,1010.4,Al Qunfudhah Technical Institute Station,West
+2017-11-01 00:00:00+03:00,989.67744,4492.0,4614.0,1781.0,28.1,5.0,3.0,69.8,999.3,King Abdulaziz University (Osfan Campus) Station,West
+2017-12-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2017-12-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2017-12-01 00:00:00+03:00,1002.23568,4549.0,5034.0,1659.0,26.7,231.0,2.1,73.0,1013.3,Al Qunfudhah Technical Institute Station,West
+2017-12-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2017-12-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2018-01-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2018-01-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2018-01-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2018-01-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2018-01-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2018-02-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2018-02-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2018-02-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2018-02-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2018-02-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2018-03-01 00:00:00+03:00,1428.99552,6486.0,5830.0,2263.0,27.8,259.0,2.3,71.9,1009.3,Al Qunfudhah Technical Institute Station,West
+2018-03-01 00:00:00+03:00,1423.2672,6460.0,6115.0,2231.0,28.2,341.0,3.2,49.9,997.8,King Abdulaziz University (Osfan Campus) Station,West
+2018-03-01 00:00:00+03:00,1398.81168,6349.0,5876.0,2260.0,28.5,319.0,3.3,50.1,1003.6,King Abdulaziz University Main Campus Station,West
+2018-03-01 00:00:00+03:00,1404.54,6375.0,6162.0,2089.0,26.0,0.0,0.0,68.9,1008.3,King Abdullah University of Science and Technology Station,West
+2018-03-01 00:00:00+03:00,1414.89504,6422.0,6864.0,1837.0,25.9,297.0,2.4,55.8,1010.6,Saline Water Conversion Corporation (Umluj) Station,West
+2018-04-01 00:00:00+03:00,1549.06992,7031.0,6023.0,2508.0,27.0,0.0,0.0,65.5,1006.2,King Abdullah University of Science and Technology Station,West
+2018-04-01 00:00:00+03:00,1524.17376,6918.0,5662.0,2656.0,29.7,319.0,3.7,46.4,1001.4,King Abdulaziz University Main Campus Station,West
+2018-04-01 00:00:00+03:00,1570.8816,7130.0,5946.0,2679.0,29.4,358.0,3.2,46.2,995.7,King Abdulaziz University (Osfan Campus) Station,West
+2018-04-01 00:00:00+03:00,1588.28688,7209.0,6565.0,2349.0,26.9,295.0,2.4,58.2,1008.6,Saline Water Conversion Corporation (Umluj) Station,West
+2018-04-01 00:00:00+03:00,1465.56864,6652.0,5211.0,2628.0,30.2,281.0,2.5,70.7,1006.9,Al Qunfudhah Technical Institute Station,West
+2018-05-01 00:00:00+03:00,1604.37024,7282.0,5293.0,3148.0,33.3,340.0,3.7,39.5,993.8,King Abdulaziz University (Osfan Campus) Station,West
+2018-05-01 00:00:00+03:00,1549.9512,7035.0,4945.0,3193.0,31.4,285.0,2.8,51.6,1006.2,Saline Water Conversion Corporation (Umluj) Station,West
+2018-05-01 00:00:00+03:00,1524.39408,6919.0,4602.0,3245.0,31.8,268.0,2.6,70.7,1004.8,Al Qunfudhah Technical Institute Station,West
+2018-05-01 00:00:00+03:00,1574.1863999999998,7145.0,5216.0,3077.0,33.4,318.0,4.0,40.2,999.3,King Abdulaziz University Main Campus Station,West
+2018-05-01 00:00:00+03:00,1568.6784,7120.0,5108.0,3128.0,30.2,0.0,0.0,62.0,1003.9,King Abdullah University of Science and Technology Station,West
+2018-06-01 00:00:00+03:00,1679.05872,7621.0,6873.0,2407.0,31.7,302.0,2.7,59.8,1004.3,Saline Water Conversion Corporation (Umluj) Station,West
+2018-06-01 00:00:00+03:00,1598.20128,7254.0,5273.0,3114.0,33.9,342.0,3.3,46.5,991.6,King Abdulaziz University (Osfan Campus) Station,West
+2018-06-01 00:00:00+03:00,1575.72864,7152.0,5356.0,2970.0,30.9,0.0,0.0,68.2,1001.6,King Abdullah University of Science and Technology Station,West
+2018-06-01 00:00:00+03:00,1387.5753599999998,6298.0,2975.0,3832.0,32.7,247.0,3.2,72.1,1002.3,Al Qunfudhah Technical Institute Station,West
+2018-06-01 00:00:00+03:00,1553.0356800000002,7049.0,4900.0,3199.0,33.9,317.0,4.2,46.2,997.1,King Abdulaziz University Main Campus Station,West
+2018-07-01 00:00:00+03:00,1636.31664,7427.0,6840.0,2274.0,32.4,291.0,2.2,59.9,1003.7,Saline Water Conversion Corporation (Umluj) Station,West
+2018-07-01 00:00:00+03:00,1550.17152,7036.0,5445.0,2770.0,31.9,0.0,0.0,65.5,1001.7,King Abdullah University of Science and Technology Station,West
+2018-07-01 00:00:00+03:00,1516.4625599999997,6883.0,4886.0,3024.0,34.7,311.0,3.8,44.2,997.2,King Abdulaziz University Main Campus Station,West
+2018-07-01 00:00:00+03:00,1581.45696,7178.0,5392.0,2932.0,34.7,337.0,3.0,44.5,991.7,King Abdulaziz University (Osfan Campus) Station,West
+2018-07-01 00:00:00+03:00,1360.25568,6174.0,3099.0,3603.0,32.7,254.0,3.5,69.2,1002.6,Al Qunfudhah Technical Institute Station,West
+2018-08-01 00:00:00+03:00,1371.492,6225.0,3438.0,3379.0,33.0,242.0,3.5,74.3,1002.8,Al Qunfudhah Technical Institute Station,West
+2018-08-01 00:00:00+03:00,1450.8072,6585.0,5172.0,2592.0,34.5,313.0,4.1,50.0,997.4,King Abdulaziz University Main Campus Station,West
+2018-08-01 00:00:00+03:00,1469.31408,6669.0,5502.0,2421.0,32.1,0.0,0.0,69.5,1001.9,King Abdullah University of Science and Technology Station,West
+2018-08-01 00:00:00+03:00,1524.17376,6918.0,5711.0,2527.0,34.5,340.0,3.2,51.0,992.0,King Abdulaziz University (Osfan Campus) Station,West
+2018-08-01 00:00:00+03:00,1569.78,7125.0,7281.0,1769.0,32.3,287.0,2.3,67.8,1004.4,Saline Water Conversion Corporation (Umluj) Station,West
+2018-09-01 00:00:00+03:00,1286.6688,5840.0,3679.0,3004.0,31.6,0.0,0.0,79.2,1003.4,King Abdullah University of Science and Technology Station,West
+2018-09-01 00:00:00+03:00,1312.44624,5957.0,3374.0,3243.0,32.7,244.0,2.3,80.7,1005.0,Al Qunfudhah Technical Institute Station,West
+2018-09-01 00:00:00+03:00,1260.89136,5723.0,3435.0,3065.0,33.4,299.0,3.0,64.1,998.9,King Abdulaziz University Main Campus Station,West
+2018-09-01 00:00:00+03:00,1326.3264,6020.0,3796.0,3099.0,33.7,290.0,2.9,64.1,993.4,King Abdulaziz University (Osfan Campus) Station,West
+2018-09-01 00:00:00+03:00,1308.7007999999998,5940.0,4050.0,2915.0,31.8,240.0,0.3,71.9,1005.9,Saline Water Conversion Corporation (Umluj) Station,West
+2018-10-01 00:00:00+03:00,1126.2758399999998,5112.0,4578.0,2043.0,29.9,0.0,0.0,71.9,1007.7,King Abdullah University of Science and Technology Station,West
+2018-10-01 00:00:00+03:00,1152.49392,5231.0,4637.0,2130.0,31.5,342.0,2.7,59.5,997.4,King Abdulaziz University (Osfan Campus) Station,West
+2018-10-01 00:00:00+03:00,1140.5966400000002,5177.0,5230.0,1812.0,30.1,247.0,0.2,59.8,1010.1,Saline Water Conversion Corporation (Umluj) Station,West
+2018-10-01 00:00:00+03:00,1107.76896,5028.0,4374.0,2094.0,31.3,315.0,2.8,61.2,1003.1,King Abdulaziz University Main Campus Station,West
+2018-10-01 00:00:00+03:00,1187.7451199999998,5391.0,4418.0,2299.0,30.8,249.0,1.8,74.8,1008.8,Al Qunfudhah Technical Institute Station,West
+2018-11-01 00:00:00+03:00,973.37376,4418.0,3857.0,2037.0,29.1,250.0,1.6,75.7,1010.4,Al Qunfudhah Technical Institute Station,West
+2018-11-01 00:00:00+03:00,930.63168,4224.0,4522.0,1619.0,26.9,0.0,0.0,61.5,1009.8,King Abdullah University of Science and Technology Station,West
+2018-11-01 00:00:00+03:00,940.10544,4267.0,5602.0,1205.0,26.0,290.0,0.1,57.5,1012.5,Saline Water Conversion Corporation (Umluj) Station,West
+2018-11-01 00:00:00+03:00,902.65104,4097.0,4049.0,1787.0,27.7,36.0,3.1,56.0,999.3,King Abdulaziz University (Osfan Campus) Station,West
+2018-11-01 00:00:00+03:00,867.8404800000001,3939.0,3701.0,1793.0,27.7,342.0,2.9,58.3,1005.1,King Abdulaziz University Main Campus Station,West
+2018-12-01 00:00:00+03:00,836.7753599999999,3798.0,3763.0,1753.0,25.7,333.0,3.7,62.6,1007.5,King Abdulaziz University Main Campus Station,West
+2018-12-01 00:00:00+03:00,875.99232,3976.0,4062.0,1781.0,25.3,17.0,3.0,62.7,1001.6,King Abdulaziz University (Osfan Campus) Station,West
+2018-12-01 00:00:00+03:00,861.4512000000001,3910.0,4220.0,1645.0,24.8,0.0,0.0,66.4,1012.2,King Abdullah University of Science and Technology Station,West
+2018-12-01 00:00:00+03:00,907.27776,4118.0,5806.0,1224.0,23.0,321.0,0.2,56.9,1015.3,Saline Water Conversion Corporation (Umluj) Station,West
+2018-12-01 00:00:00+03:00,905.29488,4109.0,3567.0,2033.0,27.5,272.0,1.6,77.8,1012.5,Al Qunfudhah Technical Institute Station,West
+2019-01-01 00:00:00+03:00,870.7046399999999,3952.0,3470.0,1959.0,24.1,0.0,0.0,67.7,1012.3,King Abdullah University of Science and Technology Station,West
+2019-01-01 00:00:00+03:00,861.67152,3911.0,4060.0,1748.0,21.9,181.0,0.4,55.3,1014.9,Saline Water Conversion Corporation (Umluj) Station,West
+2019-01-01 00:00:00+03:00,874.6703999999999,3970.0,3345.0,2042.0,25.1,327.0,3.4,65.3,1007.5,King Abdulaziz University Main Campus Station,West
+2019-01-01 00:00:00+03:00,891.1944,4045.0,3447.0,2081.0,24.7,13.0,3.2,64.3,1001.7,King Abdulaziz University (Osfan Campus) Station,West
+2019-01-01 00:00:00+03:00,1016.99712,4616.0,3983.0,2196.0,26.8,274.0,1.6,79.1,1012.9,Al Qunfudhah Technical Institute Station,West
+2019-02-01 00:00:00+03:00,1015.01424,4607.0,4002.0,2080.0,23.9,0.0,0.0,57.9,1011.5,King Abdullah University of Science and Technology Station,West
+2019-02-01 00:00:00+03:00,1058.6375999999998,4805.0,3153.0,2694.0,26.6,257.0,2.0,75.9,1011.7,Al Qunfudhah Technical Institute Station,West
+2019-02-01 00:00:00+03:00,1052.68896,4778.0,4016.0,2227.0,24.5,16.0,3.7,54.3,1000.8,King Abdulaziz University (Osfan Campus) Station,West
+2019-02-01 00:00:00+03:00,1020.0816,4630.0,3871.0,2152.0,25.0,329.0,4.1,56.0,1006.5,King Abdulaziz University Main Campus Station,West
+2019-02-01 00:00:00+03:00,1101.82032,5001.0,5525.0,1729.0,22.2,294.0,0.4,50.3,1014.4,Saline Water Conversion Corporation (Umluj) Station,West
+2019-03-01 00:00:00+03:00,1345.71456,6108.0,5648.0,2209.0,23.7,0.0,0.0,60.6,1010.2,King Abdullah University of Science and Technology Station,West
+2019-03-01 00:00:00+03:00,1355.84928,6154.0,4702.0,2689.0,26.9,251.0,2.3,71.5,1010.3,Al Qunfudhah Technical Institute Station,West
+2019-03-01 00:00:00+03:00,1405.8619199999998,6381.0,6770.0,1890.0,22.6,287.0,0.8,51.1,1012.9,Saline Water Conversion Corporation (Umluj) Station,West
+2019-03-01 00:00:00+03:00,1330.95312,6041.0,5362.0,2348.0,25.1,328.0,4.4,51.9,1005.3,King Abdulaziz University Main Campus Station,West
+2019-03-01 00:00:00+03:00,1377.22032,6251.0,5633.0,2397.0,24.9,14.0,4.0,51.1,999.6,King Abdulaziz University (Osfan Campus) Station,West
+2019-04-01 00:00:00+03:00,1529.0207999999998,6940.0,6280.0,2371.0,25.3,286.0,0.5,54.6,1010.1,Saline Water Conversion Corporation (Umluj) Station,West
+2019-04-01 00:00:00+03:00,1523.5127999999995,6915.0,5723.0,2700.0,28.4,358.0,3.6,48.7,996.9,King Abdulaziz University (Osfan Campus) Station,West
+2019-04-01 00:00:00+03:00,1440.0115199999998,6536.0,4666.0,2894.0,29.8,234.0,2.0,71.1,1007.6,Al Qunfudhah Technical Institute Station,West
+2019-04-01 00:00:00+03:00,1458.29808,6619.0,5464.0,2577.0,28.6,321.0,3.8,49.1,1002.5,King Abdulaziz University Main Campus Station,West
+2019-04-01 00:00:00+03:00,1491.1257599999997,6768.0,5741.0,2517.0,26.2,0.0,0.0,64.7,1007.5,King Abdullah University of Science and Technology Station,West
+2019-05-01 00:00:00+03:00,1437.3676799999998,6524.0,4805.0,2746.0,33.6,307.0,2.6,43.8,1000.3,King Abdulaziz University Main Campus Station,West
+2019-05-01 00:00:00+03:00,1605.4718400000002,7287.0,6382.0,2464.0,29.2,292.0,0.1,62.3,1007.2,Saline Water Conversion Corporation (Umluj) Station,West
+2019-05-01 00:00:00+03:00,1472.39856,6683.0,4947.0,2797.0,30.2,0.0,0.0,63.9,1005.1,King Abdullah University of Science and Technology Station,West
+2019-05-01 00:00:00+03:00,1534.7491200000002,6966.0,5218.0,2870.0,33.6,337.0,3.1,41.3,994.8,King Abdulaziz University (Osfan Campus) Station,West
+2019-05-01 00:00:00+03:00,1415.7763200000002,6426.0,4598.0,2897.0,32.6,233.0,2.2,60.9,1006.1,Al Qunfudhah Technical Institute Station,West
+2019-06-01 00:00:00+03:00,1451.9088000000002,6590.0,4456.0,3058.0,34.9,322.0,4.5,43.8,997.4,King Abdulaziz University Main Campus Station,West
+2019-06-01 00:00:00+03:00,1543.12128,7004.0,4851.0,3122.0,35.0,358.0,3.7,43.0,992.2,King Abdulaziz University (Osfan Campus) Station,West
+2019-06-01 00:00:00+03:00,1662.97536,7548.0,6909.0,2346.0,32.5,163.0,0.0,55.3,1005.1,Saline Water Conversion Corporation (Umluj) Station,West
+2019-06-01 00:00:00+03:00,1395.7272,6335.0,4588.0,2680.0,31.8,0.0,0.0,66.0,1002.1,King Abdullah University of Science and Technology Station,West
+2019-06-01 00:00:00+03:00,1407.40416,6388.0,3459.0,3510.0,33.3,244.0,2.9,73.4,1002.6,Al Qunfudhah Technical Institute Station,West
+2019-07-01 00:00:00+03:00,1700.65008,7719.0,7975.0,1790.0,32.1,0.0,0.0,62.8,1003.3,Saline Water Conversion Corporation (Umluj) Station,West
+2019-07-01 00:00:00+03:00,1595.33712,7241.0,5876.0,2705.0,34.6,353.0,3.2,45.7,990.9,King Abdulaziz University (Osfan Campus) Station,West
+2019-07-01 00:00:00+03:00,1516.02192,6881.0,5472.0,2642.0,34.9,319.0,4.2,43.7,996.2,King Abdulaziz University Main Campus Station,West
+2019-07-01 00:00:00+03:00,1518.8860799999998,6894.0,5710.0,2480.0,31.8,0.0,0.0,68.0,1000.9,King Abdullah University of Science and Technology Station,West
+2019-07-01 00:00:00+03:00,1423.92816,6463.0,3504.0,3580.0,33.0,1.0,3.3,70.0,1001.2,Al Qunfudhah Technical Institute Station,West
+2019-08-01 00:00:00+03:00,1535.8507199999997,6971.0,5850.0,2505.0,34.4,319.0,3.3,51.7,992.6,King Abdulaziz University (Osfan Campus) Station,West
+2019-08-01 00:00:00+03:00,1426.572,6475.0,5252.0,2437.0,34.1,306.0,3.7,54.8,998.0,King Abdulaziz University Main Campus Station,West
+2019-08-01 00:00:00+03:00,1329.41088,6034.0,3438.0,3220.0,32.9,356.0,3.4,76.4,1003.8,Al Qunfudhah Technical Institute Station,West
+2019-08-01 00:00:00+03:00,1456.53552,6611.0,5598.0,2337.0,32.2,0.0,0.0,69.8,1002.5,King Abdullah University of Science and Technology Station,West
+2019-08-01 00:00:00+03:00,1580.13504,7172.0,7253.0,1825.0,32.6,0.0,0.0,63.7,1004.6,Saline Water Conversion Corporation (Umluj) Station,West
+2019-09-01 00:00:00+03:00,1319.7168,5990.0,3898.0,2897.0,32.1,358.0,2.5,82.2,1003.8,Al Qunfudhah Technical Institute Station,West
+2019-09-01 00:00:00+03:00,1301.65056,5908.0,4620.0,2470.0,30.9,0.0,0.0,78.0,1002.8,King Abdullah University of Science and Technology Station,West
+2019-09-01 00:00:00+03:00,1363.56048,6189.0,4759.0,2593.0,32.9,340.0,3.0,61.5,992.8,King Abdulaziz University (Osfan Campus) Station,West
+2019-09-01 00:00:00+03:00,1366.2043199999998,6201.0,5567.0,2220.0,30.9,0.0,0.0,69.9,1005.5,Saline Water Conversion Corporation (Umluj) Station,West
+2019-09-01 00:00:00+03:00,1275.6528,5790.0,4294.0,2502.0,32.9,316.0,3.7,61.3,998.2,King Abdulaziz University Main Campus Station,West
+2019-10-01 00:00:00+03:00,1226.0807999999995,5565.0,4919.0,2124.0,30.9,345.0,1.8,77.3,1008.3,Al Qunfudhah Technical Institute Station,West
+2019-10-01 00:00:00+03:00,1154.03616,5238.0,5319.0,1872.0,30.6,0.0,0.0,64.3,1009.2,Saline Water Conversion Corporation (Umluj) Station,West
+2019-10-01 00:00:00+03:00,1151.83296,5228.0,5032.0,1870.0,31.1,0.0,0.0,69.0,1007.6,King Abdullah University of Science and Technology Station,West
+2019-10-01 00:00:00+03:00,1184.88096,5378.0,4867.0,2163.0,31.6,340.0,2.9,59.4,996.8,King Abdulaziz University (Osfan Campus) Station,West
+2019-10-01 00:00:00+03:00,1119.88656,5083.0,4316.0,2205.0,31.6,310.0,2.7,62.8,1002.5,King Abdulaziz University Main Campus Station,West
+2019-11-01 00:00:00+03:00,1027.35216,4663.0,6261.0,1264.0,27.4,0.0,0.0,54.2,1011.1,Saline Water Conversion Corporation (Umluj) Station,West
+2019-11-01 00:00:00+03:00,988.57584,4487.0,5053.0,1567.0,28.1,0.0,0.0,63.0,1008.6,King Abdullah University of Science and Technology Station,West
+2019-11-01 00:00:00+03:00,1021.1832,4635.0,5039.0,1694.0,28.9,17.0,2.7,57.3,998.2,King Abdulaziz University (Osfan Campus) Station,West
+2019-11-01 00:00:00+03:00,937.02096,4253.0,4498.0,1605.0,29.2,332.0,2.8,59.6,1003.8,King Abdulaziz University Main Campus Station,West
+2019-11-01 00:00:00+03:00,926.66592,4206.0,3890.0,1795.0,28.7,350.0,1.4,80.4,1009.6,Al Qunfudhah Technical Institute Station,West
+2019-12-01 00:00:00+03:00,974.69568,4424.0,7000.0,962.0,22.9,275.0,0.0,48.7,1014.7,Saline Water Conversion Corporation (Umluj) Station,West
+2019-12-01 00:00:00+03:00,951.12144,4317.0,5638.0,1322.0,24.8,0.0,0.0,58.0,1011.5,King Abdullah University of Science and Technology Station,West
+2019-12-01 00:00:00+03:00,894.4992,4060.0,4614.0,1566.0,25.7,338.0,4.0,57.4,1006.5,King Abdulaziz University Main Campus Station,West
+2019-12-01 00:00:00+03:00,982.84752,4461.0,4714.0,1774.0,27.6,348.0,1.8,79.0,1011.6,Al Qunfudhah Technical Institute Station,West
+2019-12-01 00:00:00+03:00,949.13856,4308.0,5177.0,1560.0,25.2,34.0,3.7,55.0,1000.8,King Abdulaziz University (Osfan Campus) Station,West
+2020-01-01 00:00:00+03:00,910.36224,4132.0,4791.0,1493.0,20.2,322.0,2.1,62.9,1016.4,Al Qunfudhah Technical Institute Station,West
+2020-01-01 00:00:00+03:00,1012.81104,4597.0,6020.0,1308.0,21.6,102.0,0.2,52.8,1014.3,King Abdullah University of Science and Technology Station,West
+2020-01-01 00:00:00+03:00,990.77904,4497.0,6546.0,1134.0,19.7,326.0,0.0,46.8,1017.4,Saline Water Conversion Corporation (Umluj) Station,West
+2020-01-01 00:00:00+03:00,1061.50176,4818.0,6220.0,1406.0,21.9,29.0,4.0,49.7,1003.4,King Abdulaziz University (Osfan Campus) Station,West
+2020-01-01 00:00:00+03:00,1009.94688,4584.0,5733.0,1415.0,22.6,335.0,4.4,52.3,1009.2,King Abdulaziz University Main Campus Station,West
+2020-02-01 00:00:00+03:00,1092.56688,4959.0,4386.0,2221.0,23.4,12.0,3.5,56.3,1002.0,King Abdulaziz University (Osfan Campus) Station,West
+2020-02-01 00:00:00+03:00,1053.1296,4780.0,4053.0,2208.0,23.9,326.0,3.9,58.5,1007.7,King Abdulaziz University Main Campus Station,West
+2020-02-01 00:00:00+03:00,1082.8728,4915.0,4774.0,1963.0,22.7,122.0,2.6,62.1,1012.8,King Abdullah University of Science and Technology Station,West
+2020-02-01 00:00:00+03:00,1117.0224,5070.0,3741.0,2510.0,26.2,348.0,1.6,79.0,1012.7,Al Qunfudhah Technical Institute Station,West
+2020-02-01 00:00:00+03:00,1208.89584,5487.0,7167.0,1317.0,20.7,332.0,0.0,54.0,1015.8,Saline Water Conversion Corporation (Umluj) Station,West
+2020-03-01 00:00:00+03:00,1340.20656,6083.0,5309.0,2322.0,24.1,102.0,2.6,66.8,1008.8,King Abdullah University of Science and Technology Station,West
+2020-03-01 00:00:00+03:00,1315.09008,5969.0,3975.0,2972.0,27.1,171.0,1.2,78.1,1009.3,Al Qunfudhah Technical Institute Station,West
+2020-03-01 00:00:00+03:00,1387.13472,6296.0,5856.0,2294.0,23.6,294.0,2.9,56.4,1011.7,Saline Water Conversion Corporation (Umluj) Station,West
+2020-03-01 00:00:00+03:00,1307.5992,5935.0,4998.0,2378.0,25.7,320.0,4.0,57.1,1003.9,King Abdulaziz University Main Campus Station,West
+2020-03-01 00:00:00+03:00,1389.99888,6309.0,5456.0,2437.0,25.6,3.0,3.6,54.4,998.1,King Abdulaziz University (Osfan Campus) Station,West
+2020-04-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2020-04-01 00:00:00+03:00,1605.9124799999995,7289.0,6871.0,2295.0,25.4,311.0,3.3,59.8,1010.4,Saline Water Conversion Corporation (Umluj) Station,West
+2020-04-01 00:00:00+03:00,1440.23184,6537.0,5974.0,2184.0,28.2,316.0,3.3,54.4,1002.7,King Abdulaziz University Main Campus Station,West
+2020-04-01 00:00:00+03:00,1495.9727999999998,6790.0,6307.0,2145.0,26.0,100.0,2.4,67.9,1007.6,King Abdullah University of Science and Technology Station,West
+2020-04-01 00:00:00+03:00,1503.02304,6822.0,5643.0,2477.0,29.8,55.0,2.5,74.4,1007.8,Al Qunfudhah Technical Institute Station,West
+2020-05-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2020-05-01 00:00:00+03:00,1461.16224,6632.0,5336.0,2534.0,29.3,99.0,2.5,67.4,1005.5,King Abdullah University of Science and Technology Station,West
+2020-05-01 00:00:00+03:00,1626.4022399999997,7382.0,6624.0,2403.0,29.0,313.0,3.0,60.8,1008.0,Saline Water Conversion Corporation (Umluj) Station,West
+2020-05-01 00:00:00+03:00,1472.8392,6685.0,4757.0,2890.0,32.1,53.0,3.0,73.0,1006.0,Al Qunfudhah Technical Institute Station,West
+2020-05-01 00:00:00+03:00,1416.21696,6428.0,5198.0,2462.0,31.9,320.0,3.8,48.8,1000.7,King Abdulaziz University Main Campus Station,West
+2020-06-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2020-06-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2020-06-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2020-06-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2020-06-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2020-07-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2020-07-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2020-07-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2020-07-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2020-07-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2020-08-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2020-08-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2020-08-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2020-08-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2020-08-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2020-09-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2020-09-01 00:00:00+03:00,1288.21104,5847.0,4580.0,2430.0,34.2,304.0,2.7,60.5,997.6,King Abdulaziz University Main Campus Station,West
+2020-09-01 00:00:00+03:00,1368.62784,6212.0,5044.0,2469.0,34.7,302.0,2.8,56.4,992.0,King Abdulaziz University (Osfan Campus) Station,West
+2020-09-01 00:00:00+03:00,1327.6483199999998,6026.0,5024.0,2314.0,32.4,63.0,2.3,74.8,1002.1,King Abdullah University of Science and Technology Station,West
+2020-09-01 00:00:00+03:00,1377.4406399999998,6252.0,5735.0,2145.0,33.6,315.0,2.7,62.0,1005.2,Saline Water Conversion Corporation (Umluj) Station,West
+2020-10-01 00:00:00+03:00,1191.49056,5408.0,5709.0,1708.0,32.3,317.0,2.3,52.5,1002.1,King Abdulaziz University Main Campus Station,West
+2020-10-01 00:00:00+03:00,1220.35248,5539.0,6508.0,1500.0,31.4,312.0,2.1,51.7,1009.4,Saline Water Conversion Corporation (Umluj) Station,West
+2020-10-01 00:00:00+03:00,1266.84,5750.0,6252.0,1698.0,32.8,67.0,3.1,45.7,996.6,King Abdulaziz University (Osfan Campus) Station,West
+2020-10-01 00:00:00+03:00,1279.61856,5808.0,5788.0,1840.0,30.6,43.0,2.3,78.8,1007.5,Al Qunfudhah Technical Institute Station,West
+2020-10-01 00:00:00+03:00,1226.96208,5569.0,6168.0,1615.0,31.3,113.0,2.3,57.9,1006.8,King Abdullah University of Science and Technology Station,West
+2020-11-01 00:00:00+03:00,978.2208,4440.0,4940.0,1593.0,28.3,10.0,2.6,61.0,999.5,King Abdulaziz University (Osfan Campus) Station,West
+2020-11-01 00:00:00+03:00,1024.70832,4651.0,6695.0,1069.0,26.5,332.0,3.1,54.8,1012.4,Saline Water Conversion Corporation (Umluj) Station,West
+2020-11-01 00:00:00+03:00,990.11808,4494.0,4301.0,1829.0,29.2,41.0,2.3,80.0,1010.2,Al Qunfudhah Technical Institute Station,West
+2020-11-01 00:00:00+03:00,989.67744,4492.0,5307.0,1423.0,27.8,123.0,2.4,63.7,1009.9,King Abdullah University of Science and Technology Station,West
+2020-11-01 00:00:00+03:00,927.32688,4209.0,4592.0,1551.0,28.5,329.0,3.4,64.0,1005.1,King Abdulaziz University Main Campus Station,West
+2020-12-01 00:00:00+03:00,887.4489599999999,4028.0,4741.0,1490.0,25.5,130.0,2.1,62.3,1011.3,King Abdullah University of Science and Technology Station,West
+2020-12-01 00:00:00+03:00,888.5505599999999,4033.0,4414.0,1688.0,26.2,16.0,2.1,58.3,1000.7,King Abdulaziz University (Osfan Campus) Station,West
+2020-12-01 00:00:00+03:00,989.67744,4492.0,5006.0,1639.0,27.4,22.0,2.1,82.9,1011.5,Al Qunfudhah Technical Institute Station,West
+2020-12-01 00:00:00+03:00,856.1635200000001,3886.0,4103.0,1688.0,26.5,332.0,3.1,60.3,1006.3,King Abdulaziz University Main Campus Station,West
+2020-12-01 00:00:00+03:00,910.8028799999998,4134.0,5703.0,1243.0,24.3,344.0,2.7,52.8,1013.9,Saline Water Conversion Corporation (Umluj) Station,West
+2021-01-01 00:00:00+03:00,1002.89664,4552.0,6064.0,1358.0,23.3,345.0,3.1,52.0,1014.6,Saline Water Conversion Corporation (Umluj) Station,West
+2021-01-01 00:00:00+03:00,943.18992,4281.0,4525.0,1720.0,25.4,336.0,3.3,61.7,1006.7,King Abdulaziz University Main Campus Station,West
+2021-01-01 00:00:00+03:00,957.95136,4348.0,4510.0,1805.0,25.2,41.0,3.3,58.4,1000.9,King Abdulaziz University (Osfan Campus) Station,West
+2021-01-01 00:00:00+03:00,942.9696,4280.0,4544.0,1734.0,24.9,145.0,2.5,59.4,1011.7,King Abdullah University of Science and Technology Station,West
+2021-01-01 00:00:00+03:00,1011.48912,4591.0,4364.0,1968.0,26.2,30.0,2.1,83.6,1011.8,Al Qunfudhah Technical Institute Station,West
+2021-02-01 00:00:00+03:00,1105.12512,5016.0,5131.0,1814.0,24.5,15.0,3.5,58.0,1000.7,King Abdulaziz University (Osfan Campus) Station,West
+2021-02-01 00:00:00+03:00,1109.9721599999998,5038.0,4209.0,2207.0,26.0,37.0,2.6,79.0,1011.5,Al Qunfudhah Technical Institute Station,West
+2021-02-01 00:00:00+03:00,1173.64464,5327.0,6747.0,1338.0,22.6,336.0,3.3,53.8,1014.3,Saline Water Conversion Corporation (Umluj) Station,West
+2021-02-01 00:00:00+03:00,1062.16272,4821.0,4876.0,1769.0,24.7,327.0,3.7,60.2,1006.5,King Abdulaziz University Main Campus Station,West
+2021-02-01 00:00:00+03:00,1095.21072,4971.0,5373.0,1648.0,23.9,121.0,2.7,63.0,1011.4,King Abdullah University of Science and Technology Station,West
+2021-03-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-03-01 00:00:00+03:00,,,3186.0,1498.0,27.9,33.0,2.3,76.1,1008.8,Al Qunfudhah Technical Institute Station,West
+2021-03-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-03-01 00:00:00+03:00,1357.6118399999998,6162.0,5248.0,2445.0,27.4,352.0,3.3,57.5,997.9,King Abdulaziz University (Osfan Campus) Station,West
+2021-03-01 00:00:00+03:00,1387.79568,6299.0,5961.0,2221.0,24.5,319.0,3.4,57.6,1011.2,Saline Water Conversion Corporation (Umluj) Station,West
+2021-04-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-04-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-04-01 00:00:00+03:00,1587.84624,7207.0,6640.0,2339.0,26.6,314.0,3.0,61.1,1009.8,Saline Water Conversion Corporation (Umluj) Station,West
+2021-04-01 00:00:00+03:00,1480.3300800000002,6719.0,5246.0,2720.0,29.7,349.0,3.4,50.7,996.7,King Abdulaziz University (Osfan Campus) Station,West
+2021-04-01 00:00:00+03:00,1497.51504,6797.0,4926.0,2874.0,29.6,31.0,2.5,72.7,1007.5,Al Qunfudhah Technical Institute Station,West
+2021-05-01 00:00:00+03:00,1627.50384,7387.0,6793.0,2251.0,32.4,317.0,2.7,53.1,994.1,King Abdulaziz University (Osfan Campus) Station,West
+2021-05-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-05-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-05-01 00:00:00+03:00,,,5201.0,2946.0,31.6,29.0,2.8,76.9,1004.8,Al Qunfudhah Technical Institute Station,West
+2021-05-01 00:00:00+03:00,1641.16368,7449.0,7042.0,2211.0,30.5,305.0,2.7,62.0,1006.4,Saline Water Conversion Corporation (Umluj) Station,West
+2021-06-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-06-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2021-06-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-06-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2021-06-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Umluj) Station,West
+2021-07-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-07-01 00:00:00+03:00,1460.28096,6628.0,4465.0,3105.0,33.9,303.0,3.2,53.2,990.2,King Abdulaziz University (Osfan Campus) Station,West
+2021-07-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-07-01 00:00:00+03:00,1286.88912,5841.0,2970.0,3441.0,33.1,31.0,3.6,74.3,1001.1,Al Qunfudhah Technical Institute Station,West
+2021-07-01 00:00:00+03:00,1597.54032,7251.0,6507.0,2349.0,32.1,304.0,3.0,63.0,1002.3,Saline Water Conversion Corporation (Umluj) Station,West
+2021-08-01 00:00:00+03:00,,,,,,,,,,King Abdullah University of Science and Technology Station,West
+2021-08-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2021-08-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University Main Campus Station,West
+2021-08-01 00:00:00+03:00,1445.51952,6561.0,4891.0,2739.0,34.7,322.0,3.1,56.1,991.1,King Abdulaziz University (Osfan Campus) Station,West
+2021-08-01 00:00:00+03:00,1526.37696,6928.0,6376.0,2196.0,33.0,308.0,2.8,64.7,1003.3,Saline Water Conversion Corporation (Umluj) Station,West
+2021-09-01 00:00:00+03:00,1275.6528,5790.0,4143.0,2674.0,31.1,141.0,2.5,76.7,1002.9,King Abdullah University of Science and Technology Station,West
+2021-09-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2021-09-01 00:00:00+03:00,1351.88352,6136.0,5489.0,2252.0,30.8,313.0,3.1,70.8,1005.4,Saline Water Conversion Corporation (Umluj) Station,West
+2021-09-01 00:00:00+03:00,1315.75104,5972.0,4315.0,2715.0,32.8,341.0,3.2,63.8,992.7,King Abdulaziz University (Osfan Campus) Station,West
+2021-09-01 00:00:00+03:00,1232.91072,5596.0,3944.0,2586.0,32.6,309.0,4.0,66.2,998.3,King Abdulaziz University Main Campus Station,West
+2021-10-01 00:00:00+03:00,1219.2508799999998,5534.0,5514.0,1854.0,31.1,344.0,2.5,65.5,996.5,King Abdulaziz University (Osfan Campus) Station,West
+2021-10-01 00:00:00+03:00,1200.30336,5448.0,6044.0,1624.0,28.9,318.0,2.9,68.1,1009.6,Saline Water Conversion Corporation (Umluj) Station,West
+2021-10-01 00:00:00+03:00,1139.93568,5174.0,5048.0,1797.0,30.9,311.0,0.7,69.1,1002.3,King Abdulaziz University Main Campus Station,West
+2021-10-01 00:00:00+03:00,1170.56016,5313.0,5239.0,1831.0,29.3,107.0,0.2,78.8,1006.7,King Abdullah University of Science and Technology Station,West
+2021-10-01 00:00:00+03:00,1211.98032,5501.0,4448.0,2344.0,30.6,20.0,0.0,86.1,1007.4,Al Qunfudhah Technical Institute Station,West
+2021-11-01 00:00:00+03:00,966.9844799999998,4389.0,5247.0,1351.0,27.4,0.0,0.0,69.7,1009.5,King Abdullah University of Science and Technology Station,West
+2021-11-01 00:00:00+03:00,1000.2528,4540.0,6067.0,1257.0,26.8,326.0,2.5,59.8,1011.9,Saline Water Conversion Corporation (Umluj) Station,West
+2021-11-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2021-11-01 00:00:00+03:00,992.76192,4506.0,5330.0,1386.0,28.5,6.0,2.5,62.1,998.9,King Abdulaziz University (Osfan Campus) Station,West
+2021-11-01 00:00:00+03:00,922.0392,4185.0,4797.0,1386.0,28.4,0.0,0.0,67.6,1004.8,King Abdulaziz University Main Campus Station,West
+2021-12-01 00:00:00+03:00,836.5550400000001,3797.0,4095.0,1590.0,25.3,0.0,0.0,62.9,1011.8,King Abdullah University of Science and Technology Station,West
+2021-12-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2021-12-01 00:00:00+03:00,847.57104,3847.0,4889.0,1361.0,23.3,337.0,2.9,53.6,1014.6,Saline Water Conversion Corporation (Umluj) Station,West
+2021-12-01 00:00:00+03:00,798.8803200000001,3626.0,3558.0,1690.0,26.1,0.0,0.0,66.8,1007.0,King Abdulaziz University Main Campus Station,West
+2021-12-01 00:00:00+03:00,,,,,,,,,,King Abdulaziz University (Osfan Campus) Station,West
+2022-01-01 00:00:00+03:00,871.58592,3956.0,4454.0,1515.0,23.5,0.0,0.0,61.5,1007.7,King Abdulaziz University Main Campus Station,West
+2022-01-01 00:00:00+03:00,885.24576,4018.0,4630.0,1477.0,22.7,0.0,0.0,60.1,1012.6,King Abdullah University of Science and Technology Station,West
+2022-01-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2022-01-01 00:00:00+03:00,909.04032,4126.0,4695.0,1548.0,23.0,320.0,3.3,57.2,1001.8,King Abdulaziz University (Osfan Campus) Station,West
+2022-01-01 00:00:00+03:00,969.84864,4402.0,6270.0,1171.0,20.5,339.0,3.4,52.0,1015.6,Saline Water Conversion Corporation (Umluj) Station,West
+2022-02-01 00:00:00+03:00,1128.25872,5121.0,5477.0,1740.0,22.8,0.0,0.0,61.7,1011.5,King Abdullah University of Science and Technology Station,West
+2022-02-01 00:00:00+03:00,1139.0544,5170.0,5236.0,1898.0,23.3,308.0,3.9,56.9,1000.6,King Abdulaziz University (Osfan Campus) Station,West
+2022-02-01 00:00:00+03:00,1227.62304,5572.0,7314.0,1278.0,20.9,324.0,3.3,55.0,1014.5,Saline Water Conversion Corporation (Umluj) Station,West
+2022-02-01 00:00:00+03:00,1107.76896,5028.0,5035.0,1815.0,24.0,0.0,0.0,61.7,1006.1,King Abdulaziz University Main Campus Station,West
+2022-02-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West
+2022-03-01 00:00:00+03:00,1341.7488,6090.0,4807.0,2649.0,25.7,306.0,3.6,57.2,998.6,King Abdulaziz University (Osfan Campus) Station,West
+2022-03-01 00:00:00+03:00,1247.23152,5661.0,4370.0,2521.0,26.1,0.0,0.0,60.5,1004.3,King Abdulaziz University Main Campus Station,West
+2022-03-01 00:00:00+03:00,1312.66656,5958.0,4898.0,2469.0,24.2,0.0,0.0,68.8,1009.3,King Abdullah University of Science and Technology Station,West
+2022-03-01 00:00:00+03:00,1375.45776,6243.0,5864.0,2262.0,22.3,324.0,3.7,58.1,1012.4,Saline Water Conversion Corporation (Umluj) Station,West
+2022-03-01 00:00:00+03:00,,,,,,,,,,Al Qunfudhah Technical Institute Station,West

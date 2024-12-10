@@ -1,0 +1,483 @@
+Time Stamp,Energy Output (kWh),Global Horizontal Irradiance GHI,Direct Normal Irradiance Dni,Diffuse Horizontal Irradiance DHI,Air Temperature,Wind Direction At 3 Meter,Wind Speed At 3 Meter,Relative Humidity,Barometric Pressure,Source,Region
+2013-09-01 00:00:00+03:00,1533.6475199999998,6961.0,6201.0,2346.0,33.5,51.0,3.6,17.8,925.3,Sharurah Technical Institute,South
+2013-10-01 00:00:00+03:00,1450.36656,6583.0,7183.0,1787.0,28.2,52.0,3.3,18.1,929.9,Sharurah Technical Institute,South
+2013-11-01 00:00:00+03:00,1263.9758399999998,5737.0,7493.0,1281.0,24.7,68.0,3.8,32.7,931.3,Sharurah Technical Institute,South
+2013-12-01 00:00:00+03:00,1208.89584,5487.0,7995.0,1055.0,19.4,60.0,3.4,32.6,934.6,Sharurah Technical Institute,South
+2013-12-01 00:00:00+03:00,1145.00304,5197.0,6806.0,1236.0,23.0,41.0,2.2,47.4,895.6,Tuhamat Qahtan Technical Institute,South
+2014-01-01 00:00:00+03:00,1218.58992,5531.0,6975.0,1454.0,20.1,61.0,3.9,36.9,933.5,Sharurah Technical Institute,South
+2014-01-01 00:00:00+03:00,1127.37744,5117.0,5767.0,1593.0,22.5,51.0,2.0,58.7,895.0,Tuhamat Qahtan Technical Institute,South
+2014-01-01 00:00:00+03:00,1196.11728,5429.0,6548.0,1576.0,18.1,82.0,1.9,38.9,885.5,Najran University Station,South
+2014-02-01 00:00:00+03:00,1243.48608,5644.0,5564.0,1970.0,23.8,53.0,2.3,50.9,893.3,Tuhamat Qahtan Technical Institute,South
+2014-02-01 00:00:00+03:00,1324.1232,6010.0,6157.0,2006.0,21.6,56.0,4.0,29.4,931.2,Sharurah Technical Institute,South
+2014-02-01 00:00:00+03:00,1347.2568,6115.0,6418.0,1916.0,19.8,86.0,2.0,32.7,883.5,Najran University Station,South
+2014-03-01 00:00:00+03:00,1517.12352,6886.0,5977.0,2583.0,24.8,57.0,2.3,23.6,882.3,Najran University Station,South
+2014-03-01 00:00:00+03:00,1411.81056,6408.0,5751.0,2181.0,26.5,60.0,2.3,41.3,892.9,Tuhamat Qahtan Technical Institute,South
+2014-03-01 00:00:00+03:00,1525.9363199999998,6926.0,5992.0,2644.0,26.8,67.0,4.3,23.3,929.3,Sharurah Technical Institute,South
+2014-04-01 00:00:00+03:00,1705.2768,7740.0,7196.0,2384.0,28.0,84.0,2.2,17.6,882.5,Najran University Station,South
+2014-04-01 00:00:00+03:00,1692.49824,7682.0,7228.0,2324.0,30.6,85.0,3.9,18.1,929.0,Sharurah Technical Institute,South
+2014-04-01 00:00:00+03:00,1595.7777600000002,7243.0,6338.0,2385.0,29.4,64.0,2.5,35.5,892.8,Tuhamat Qahtan Technical Institute,South
+2014-05-01 00:00:00+03:00,1683.4651199999998,7641.0,6030.0,2974.0,30.6,47.0,2.3,17.1,880.7,Najran University Station,South
+2014-05-01 00:00:00+03:00,1562.50944,7092.0,5437.0,2788.0,29.9,57.0,2.4,42.5,891.7,Tuhamat Qahtan Technical Institute,South
+2014-05-01 00:00:00+03:00,1669.80528,7579.0,6374.0,2717.0,33.7,77.0,3.8,16.6,926.5,Sharurah Technical Institute,South
+2014-06-01 00:00:00+03:00,1704.39552,7736.0,5684.0,3308.0,35.3,40.0,3.6,9.8,923.9,Sharurah Technical Institute,South
+2014-06-01 00:00:00+03:00,1469.5344,6670.0,4280.0,3239.0,32.4,59.0,2.4,36.2,889.4,Tuhamat Qahtan Technical Institute,South
+2014-06-01 00:00:00+03:00,1718.93664,7802.0,5619.0,3405.0,32.6,31.0,2.1,10.4,878.6,Najran University Station,South
+2014-07-01 00:00:00+03:00,1601.50608,7269.0,4296.0,3838.0,36.6,349.0,3.5,11.3,922.3,Sharurah Technical Institute,South
+2014-07-01 00:00:00+03:00,1547.9683200000002,7026.0,4025.0,3847.0,34.0,353.0,2.5,12.1,877.3,Najran University Station,South
+2014-07-01 00:00:00+03:00,1185.10128,5379.0,2101.0,3643.0,31.7,57.0,2.1,41.1,889.3,Tuhamat Qahtan Technical Institute,South
+2014-08-01 00:00:00+03:00,1621.1145599999998,7358.0,5532.0,3011.0,33.3,12.0,2.5,14.5,876.9,Najran University Station,South
+2014-08-01 00:00:00+03:00,1604.59056,7283.0,5604.0,2904.0,36.1,48.0,3.8,15.6,922.1,Sharurah Technical Institute,South
+2014-08-01 00:00:00+03:00,1249.43472,5671.0,2851.0,3367.0,30.4,57.0,2.3,52.4,889.0,Tuhamat Qahtan Technical Institute,South
+2014-09-01 00:00:00+03:00,1302.31152,5911.0,4712.0,2384.0,30.2,51.0,2.3,42.5,890.8,Tuhamat Qahtan Technical Institute,South
+2014-09-01 00:00:00+03:00,1374.7968,6240.0,4434.0,2762.0,32.7,263.0,3.5,68.0,1004.3,Saline Water Conversion Corporation (Farasan) Station,South
+2014-09-01 00:00:00+03:00,1534.5288,6965.0,6383.0,2263.0,33.5,55.0,3.5,17.3,925.3,Sharurah Technical Institute,South
+2014-09-01 00:00:00+03:00,1521.0892799999997,6904.0,6048.0,2445.0,30.8,28.0,2.3,15.8,879.7,Najran University Station,South
+2014-10-01 00:00:00+03:00,1345.27392,6106.0,6899.0,1460.0,28.1,47.0,2.4,39.7,893.9,Tuhamat Qahtan Technical Institute,South
+2014-10-01 00:00:00+03:00,1457.19648,6614.0,7941.0,1376.0,29.3,55.0,3.4,20.4,930.5,Sharurah Technical Institute,South
+2014-10-01 00:00:00+03:00,1494.21024,6782.0,8096.0,1428.0,25.9,69.0,1.9,20.1,883.8,Najran University Station,South
+2014-10-01 00:00:00+03:00,1313.1072,5960.0,5783.0,1927.0,31.3,218.0,3.1,66.1,1008.3,Saline Water Conversion Corporation (Farasan) Station,South
+2014-11-01 00:00:00+03:00,1195.01568,5424.0,6517.0,1377.0,25.4,52.0,2.1,45.3,895.0,Tuhamat Qahtan Technical Institute,South
+2014-11-01 00:00:00+03:00,1303.1928,5915.0,7766.0,1232.0,21.9,89.0,1.8,29.7,885.0,Najran University Station,South
+2014-11-01 00:00:00+03:00,1290.19392,5856.0,7836.0,1199.0,24.8,59.0,3.5,26.6,932.9,Sharurah Technical Institute,South
+2014-11-01 00:00:00+03:00,1068.99264,4852.0,4549.0,2007.0,29.5,172.0,3.4,68.9,1010.1,Saline Water Conversion Corporation (Farasan) Station,South
+2014-11-01 00:00:00+03:00,1094.10912,4966.0,4926.0,1841.0,29.4,233.0,3.0,68.1,1011.6,Jazan University Station,South
+2014-12-01 00:00:00+03:00,1041.2323199999998,4726.0,4932.0,1777.0,27.1,198.0,3.1,72.7,1013.7,Jazan University Station,South
+2014-12-01 00:00:00+03:00,1230.70752,5586.0,8126.0,1077.0,17.6,109.0,1.6,34.8,887.1,Najran University Station,South
+2014-12-01 00:00:00+03:00,1009.5062399999998,4582.0,4329.0,2001.0,27.2,153.0,3.6,74.2,1012.6,Saline Water Conversion Corporation (Farasan) Station,South
+2014-12-01 00:00:00+03:00,1140.81696,5178.0,7132.0,1062.0,23.5,35.0,2.1,45.1,896.1,Tuhamat Qahtan Technical Institute,South
+2014-12-01 00:00:00+03:00,1222.3353599999998,5548.0,8182.0,1012.0,19.6,50.0,3.2,34.5,936.0,Sharurah Technical Institute,South
+2015-01-01 00:00:00+03:00,936.58032,4251.0,3147.0,2337.0,25.8,186.0,4.0,75.1,1013.5,Saline Water Conversion Corporation (Farasan) Station,South
+2015-01-01 00:00:00+03:00,1261.77264,5727.0,7263.0,1552.0,17.2,94.0,1.8,26.2,886.3,Najran University Station,South
+2015-01-01 00:00:00+03:00,1127.1571199999998,5116.0,5657.0,1662.0,22.6,50.0,2.1,51.2,896.2,Tuhamat Qahtan Technical Institute,South
+2015-01-01 00:00:00+03:00,1245.46896,5653.0,7365.0,1433.0,18.3,54.0,3.0,26.7,935.5,Sharurah Technical Institute,South
+2015-01-01 00:00:00+03:00,1002.23568,4549.0,3680.0,2252.0,26.0,238.0,3.4,71.7,1014.2,Jazan University Station,South
+2015-02-01 00:00:00+03:00,1212.42096,5503.0,4557.0,2446.0,26.1,164.0,3.5,76.0,1010.8,Saline Water Conversion Corporation (Farasan) Station,South
+2015-02-01 00:00:00+03:00,1440.0115199999998,6536.0,7599.0,1805.0,24.0,98.0,3.9,18.1,931.2,Sharurah Technical Institute,South
+2015-02-01 00:00:00+03:00,1191.49056,5408.0,4508.0,2387.0,26.0,236.0,3.0,76.2,1011.5,Jazan University Station,South
+2015-02-01 00:00:00+03:00,1322.80128,6004.0,6522.0,1732.0,24.9,52.0,2.2,47.7,894.1,Tuhamat Qahtan Technical Institute,South
+2015-02-01 00:00:00+03:00,1452.34944,6592.0,7292.0,1958.0,22.8,86.0,2.0,17.6,883.3,Najran University Station,South
+2015-03-01 00:00:00+03:00,1492.44768,6774.0,5747.0,2608.0,25.4,75.0,2.1,28.4,883.1,Najran University Station,South
+2015-03-01 00:00:00+03:00,1338.2236799999998,6074.0,4378.0,2817.0,28.4,222.0,3.2,70.2,1009.8,Jazan University Station,South
+2015-03-01 00:00:00+03:00,1365.984,6200.0,4760.0,2690.0,27.7,151.0,3.7,74.7,1009.2,Saline Water Conversion Corporation (Farasan) Station,South
+2015-03-01 00:00:00+03:00,1407.62448,6389.0,5442.0,2324.0,27.4,62.0,2.3,41.7,893.8,Tuhamat Qahtan Technical Institute,South
+2015-03-01 00:00:00+03:00,1505.8871999999997,6835.0,5835.0,2672.0,27.7,97.0,3.9,24.7,930.5,Sharurah Technical Institute,South
+2015-04-01 00:00:00+03:00,1401.45552,6361.0,3455.0,3587.0,30.0,235.0,3.4,67.7,1008.2,Saline Water Conversion Corporation (Farasan) Station,South
+2015-04-01 00:00:00+03:00,1542.24,7000.0,4807.0,3340.0,31.0,67.0,3.9,15.3,929.2,Sharurah Technical Institute,South
+2015-04-01 00:00:00+03:00,1472.39856,6683.0,4149.0,3392.0,29.1,58.0,2.4,37.2,893.0,Tuhamat Qahtan Technical Institute,South
+2015-04-01 00:00:00+03:00,1569.78,7125.0,4590.0,3604.0,27.9,84.0,2.1,16.5,882.5,Najran University Station,South
+2015-04-01 00:00:00+03:00,1370.3904,6220.0,3193.0,3553.0,29.8,278.0,3.2,68.9,1008.8,Jazan University Station,South
+2015-05-01 00:00:00+03:00,1507.2091200000002,6841.0,5331.0,2592.0,30.0,59.0,2.1,47.2,891.9,Tuhamat Qahtan Technical Institute,South
+2015-05-01 00:00:00+03:00,1659.45024,7532.0,5866.0,2938.0,30.9,57.0,2.3,22.1,880.9,Najran University Station,South
+2015-05-01 00:00:00+03:00,1484.9568000000002,6740.0,4683.0,2957.0,32.3,259.0,3.2,66.1,1006.4,Jazan University Station,South
+2015-05-01 00:00:00+03:00,1496.63376,6793.0,4992.0,2831.0,32.9,205.0,3.2,64.4,1005.7,Saline Water Conversion Corporation (Farasan) Station,South
+2015-05-01 00:00:00+03:00,1643.5871999999997,7460.0,5968.0,2872.0,34.1,82.0,4.0,20.1,927.0,Sharurah Technical Institute,South
+2015-06-01 00:00:00+03:00,1641.60432,7451.0,4622.0,3778.0,35.6,16.0,3.3,10.3,923.6,Sharurah Technical Institute,South
+2015-06-01 00:00:00+03:00,1682.80416,7638.0,5135.0,3605.0,32.9,359.0,2.4,10.9,878.4,Najran University Station,South
+2015-06-01 00:00:00+03:00,1506.5481599999998,6838.0,4229.0,3384.0,32.2,60.0,2.4,32.7,889.8,Tuhamat Qahtan Technical Institute,South
+2015-06-01 00:00:00+03:00,1416.87792,6431.0,3368.0,3502.0,33.5,272.0,3.8,66.0,1003.0,Saline Water Conversion Corporation (Farasan) Station,South
+2015-06-01 00:00:00+03:00,1417.5388799999998,6434.0,,,32.9,280.0,3.4,66.6,1003.8,Jazan University Station,South
+2015-07-01 00:00:00+03:00,1419.52176,6443.0,3498.0,3476.0,34.1,282.0,4.6,61.3,1001.7,Saline Water Conversion Corporation (Farasan) Station,South
+2015-07-01 00:00:00+03:00,1280.0592,5810.0,2542.0,3694.0,32.7,62.0,2.2,36.5,888.8,Tuhamat Qahtan Technical Institute,South
+2015-07-01 00:00:00+03:00,1594.23552,7236.0,4272.0,3859.0,34.4,353.0,2.6,10.5,876.9,Najran University Station,South
+2015-07-01 00:00:00+03:00,1641.3839999999998,7450.0,4648.0,3754.0,36.5,351.0,3.4,10.9,921.7,Sharurah Technical Institute,South
+2015-07-01 00:00:00+03:00,1343.29104,6097.0,2752.0,3789.0,33.2,274.0,3.6,63.9,1002.4,Jazan University Station,South
+2015-08-01 00:00:00+03:00,1308.92112,5941.0,2899.0,3519.0,34.6,259.0,3.7,65.8,1002.3,Saline Water Conversion Corporation (Farasan) Station,South
+2015-08-01 00:00:00+03:00,1281.82176,5818.0,3394.0,3072.0,30.8,56.0,2.1,47.1,889.7,Tuhamat Qahtan Technical Institute,South
+2015-08-01 00:00:00+03:00,1283.14368,5824.0,2742.0,3508.0,33.6,272.0,3.4,64.8,1003.2,Jazan University Station,South
+2015-08-01 00:00:00+03:00,1569.33936,7123.0,5447.0,2908.0,36.3,82.0,4.1,18.7,922.8,Sharurah Technical Institute,South
+2015-08-01 00:00:00+03:00,1583.21952,7186.0,5304.0,3076.0,33.5,17.0,2.3,15.2,877.7,Najran University Station,South
+2015-09-01 00:00:00+03:00,1361.13696,6178.0,4543.0,2652.0,34.0,236.0,3.0,70.0,1004.8,Saline Water Conversion Corporation (Farasan) Station,South
+2015-09-01 00:00:00+03:00,1615.16592,7331.0,6803.0,2302.0,30.8,46.0,2.1,14.7,880.8,Najran University Station,South
+2015-09-01 00:00:00+03:00,1429.65648,6489.0,5670.0,2217.0,31.3,59.0,2.3,39.5,891.4,Tuhamat Qahtan Technical Institute,South
+2015-09-01 00:00:00+03:00,1366.64496,6203.0,4484.0,2672.0,32.9,296.0,2.8,68.9,1005.7,Jazan University Station,South
+2015-09-01 00:00:00+03:00,1608.55632,7301.0,7143.0,2100.0,33.9,52.0,3.5,14.4,926.6,Sharurah Technical Institute,South
+2015-10-01 00:00:00+03:00,1280.27952,5811.0,5275.0,2097.0,32.8,192.0,3.1,67.9,1008.2,Saline Water Conversion Corporation (Farasan) Station,South
+2015-10-01 00:00:00+03:00,1481.652,6725.0,7429.0,1752.0,26.6,72.0,1.9,21.2,884.1,Najran University Station,South
+2015-10-01 00:00:00+03:00,1267.72128,5754.0,5197.0,2062.0,31.8,300.0,2.2,67.7,1009.0,Jazan University Station,South
+2015-10-01 00:00:00+03:00,1454.77296,6603.0,7386.0,1659.0,30.0,55.0,3.5,20.5,930.7,Sharurah Technical Institute,South
+2015-10-01 00:00:00+03:00,1382.9486399999998,6277.0,6771.0,1624.0,29.5,275.0,2.5,32.7,894.0,Tuhamat Qahtan Technical Institute,South
+2015-11-01 00:00:00+03:00,1250.97696,5678.0,7224.0,1389.0,25.6,62.0,3.8,35.1,932.1,Sharurah Technical Institute,South
+2015-11-01 00:00:00+03:00,1205.1504,5470.0,6612.0,1347.0,26.2,28.0,2.2,47.7,894.3,Tuhamat Qahtan Technical Institute,South
+2015-11-01 00:00:00+03:00,1061.28144,4817.0,4520.0,1926.0,29.6,285.0,2.8,70.9,1010.5,Jazan University Station,South
+2015-11-01 00:00:00+03:00,1054.89216,4788.0,4197.0,2142.0,30.2,171.0,3.2,73.5,1009.4,Saline Water Conversion Corporation (Farasan) Station,South
+2015-11-01 00:00:00+03:00,1273.4496,5780.0,7190.0,1460.0,22.4,80.0,1.9,37.0,884.6,Najran University Station,South
+2015-12-01 00:00:00+03:00,1096.97328,4979.0,6309.0,1381.0,18.1,98.0,1.9,42.7,886.8,Najran University Station,South
+2015-12-01 00:00:00+03:00,929.53008,4219.0,3821.0,1934.0,27.5,288.0,2.8,73.4,1014.2,Jazan University Station,South
+2015-12-01 00:00:00+03:00,1120.98816,5088.0,6438.0,1457.0,20.1,56.0,3.7,39.6,935.3,Sharurah Technical Institute,South
+2015-12-01 00:00:00+03:00,914.76864,4152.0,3489.0,2085.0,27.9,185.0,3.3,75.1,1012.8,Saline Water Conversion Corporation (Farasan) Station,South
+2015-12-01 00:00:00+03:00,1030.21632,4676.0,5297.0,1555.0,23.6,45.0,2.0,58.5,896.4,Tuhamat Qahtan Technical Institute,South
+2016-01-01 00:00:00+03:00,923.1408,4190.0,2820.0,2471.0,26.9,192.0,3.8,76.1,1012.6,Saline Water Conversion Corporation (Farasan) Station,South
+2016-01-01 00:00:00+03:00,1182.8980800000002,5369.0,6314.0,1626.0,20.3,52.0,4.0,36.1,934.4,Sharurah Technical Institute,South
+2016-01-01 00:00:00+03:00,1180.69488,5359.0,6180.0,1652.0,18.3,89.0,1.9,39.6,885.9,Najran University Station,South
+2016-01-01 00:00:00+03:00,1052.028,4775.0,4995.0,1746.0,22.5,48.0,1.9,59.1,896.0,Tuhamat Qahtan Technical Institute,South
+2016-01-01 00:00:00+03:00,933.27552,4236.0,3042.0,2386.0,26.4,296.0,3.1,73.5,1014.2,Jazan University Station,South
+2016-02-01 00:00:00+03:00,1325.00448,6014.0,6601.0,1661.0,24.6,36.0,2.3,43.3,895.7,Tuhamat Qahtan Technical Institute,South
+2016-02-01 00:00:00+03:00,1406.30256,6383.0,7227.0,1797.0,21.5,59.0,3.8,23.8,934.7,Sharurah Technical Institute,South
+2016-02-01 00:00:00+03:00,1170.33984,5312.0,4011.0,2567.0,26.8,278.0,3.1,74.6,1013.6,Jazan University Station,South
+2016-02-01 00:00:00+03:00,1447.2820800000002,6569.0,7667.0,1618.0,19.9,92.0,1.9,24.7,885.9,Najran University Station,South
+2016-02-01 00:00:00+03:00,1161.0864,5270.0,3898.0,2625.0,27.1,158.0,3.8,77.3,1012.0,Saline Water Conversion Corporation (Farasan) Station,South
+2016-03-01 00:00:00+03:00,1331.61408,6044.0,4243.0,2908.0,28.9,298.0,3.2,74.5,1009.7,Jazan University Station,South
+2016-03-01 00:00:00+03:00,1519.98768,6899.0,5300.0,3016.0,29.3,66.0,4.3,24.9,929.8,Sharurah Technical Institute,South
+2016-03-01 00:00:00+03:00,1440.8928,6540.0,5873.0,2213.0,28.7,55.0,2.4,43.5,893.4,Tuhamat Qahtan Technical Institute,South
+2016-03-01 00:00:00+03:00,1518.44544,6892.0,5369.0,2892.0,27.2,66.0,2.2,27.6,882.5,Najran University Station,South
+2016-03-01 00:00:00+03:00,1353.42576,6143.0,4491.0,2816.0,28.7,171.0,3.8,78.4,1008.1,Saline Water Conversion Corporation (Farasan) Station,South
+2016-04-01 00:00:00+03:00,1397.9304,6345.0,4631.0,2748.0,30.9,286.0,3.2,68.1,1007.9,Jazan University Station,South
+2016-04-01 00:00:00+03:00,1432.30032,6501.0,4994.0,2611.0,31.0,155.0,3.9,71.6,1006.3,Saline Water Conversion Corporation (Farasan) Station,South
+2016-04-01 00:00:00+03:00,1391.98176,6318.0,4359.0,2956.0,24.4,42.0,2.2,48.8,882.6,Najran University Station,South
+2016-04-01 00:00:00+03:00,1462.70448,6639.0,4325.0,3262.0,28.9,58.0,4.2,35.0,929.8,Sharurah Technical Institute,South
+2016-04-01 00:00:00+03:00,1208.01456,5483.0,3932.0,2427.0,26.3,40.0,2.0,54.5,893.1,Tuhamat Qahtan Technical Institute,South
+2016-05-01 00:00:00+03:00,1483.4145599999997,6733.0,4388.0,3173.0,30.2,50.0,2.1,46.4,892.1,Tuhamat Qahtan Technical Institute,South
+2016-05-01 00:00:00+03:00,1711.4457599999998,7768.0,6118.0,3048.0,34.5,49.0,3.8,13.7,927.1,Sharurah Technical Institute,South
+2016-05-01 00:00:00+03:00,1434.72384,6512.0,3852.0,3388.0,32.6,246.0,3.4,70.1,1005.3,Saline Water Conversion Corporation (Farasan) Station,South
+2016-05-01 00:00:00+03:00,1684.78704,7647.0,5451.0,3319.0,31.2,38.0,2.0,18.2,881.0,Najran University Station,South
+2016-05-01 00:00:00+03:00,1435.3848,6515.0,3622.0,3549.0,32.3,305.0,3.2,69.1,1006.7,Jazan University Station,South
+2016-06-01 00:00:00+03:00,1683.68544,7642.0,5321.0,3434.0,36.2,36.0,3.8,9.8,924.3,Sharurah Technical Institute,South
+2016-06-01 00:00:00+03:00,1409.16672,6396.0,3688.0,3394.0,32.8,57.0,2.2,34.5,889.9,Tuhamat Qahtan Technical Institute,South
+2016-06-01 00:00:00+03:00,1710.7848,7765.0,5453.0,3459.0,33.2,29.0,2.1,11.5,878.9,Najran University Station,South
+2016-06-01 00:00:00+03:00,1372.15296,6228.0,2880.0,3840.0,33.8,296.0,3.5,64.8,1003.4,Jazan University Station,South
+2016-06-01 00:00:00+03:00,1406.08224,6382.0,3229.0,3700.0,34.4,273.0,3.6,64.0,1002.4,Saline Water Conversion Corporation (Farasan) Station,South
+2016-07-01 00:00:00+03:00,1533.2068800000002,6959.0,4180.0,3586.0,34.6,356.0,2.7,17.7,875.8,Najran University Station,South
+2016-07-01 00:00:00+03:00,1165.4928,5290.0,2196.0,3449.0,30.7,55.0,2.1,50.1,888.4,Tuhamat Qahtan Technical Institute,South
+2016-07-01 00:00:00+03:00,1579.03344,7167.0,4562.0,3494.0,36.6,316.0,3.9,17.0,920.9,Sharurah Technical Institute,South
+2016-07-01 00:00:00+03:00,1180.03392,5356.0,2131.0,3532.0,32.6,286.0,3.5,68.3,1002.4,Jazan University Station,South
+2016-07-01 00:00:00+03:00,1237.31712,5616.0,2518.0,3475.0,34.0,283.0,2.5,63.9,1001.2,Saline Water Conversion Corporation (Farasan) Station,South
+2016-08-01 00:00:00+03:00,1565.5939200000005,7106.0,5001.0,3185.0,35.8,171.0,4.0,21.2,922.5,Sharurah Technical Institute,South
+2016-08-01 00:00:00+03:00,1284.68592,5831.0,3502.0,3009.0,29.2,55.0,2.1,58.3,889.7,Tuhamat Qahtan Technical Institute,South
+2016-08-01 00:00:00+03:00,1293.49872,5871.0,3196.0,3236.0,33.4,265.0,3.5,70.1,1003.0,Saline Water Conversion Corporation (Farasan) Station,South
+2016-08-01 00:00:00+03:00,1556.12016,7063.0,5050.0,3122.0,33.4,6.0,2.5,19.2,877.0,Najran University Station,South
+2016-08-01 00:00:00+03:00,1290.63456,5858.0,3232.0,3170.0,32.0,310.0,2.9,72.1,1004.2,Jazan University Station,South
+2016-09-01 00:00:00+03:00,1314.64944,5967.0,3920.0,2859.0,33.7,249.0,3.3,71.1,1004.2,Saline Water Conversion Corporation (Farasan) Station,South
+2016-09-01 00:00:00+03:00,1318.83552,5986.0,4510.0,2562.0,30.6,60.0,2.2,42.4,891.0,Tuhamat Qahtan Technical Institute,South
+2016-09-01 00:00:00+03:00,1319.0558399999998,5987.0,3955.0,2821.0,32.7,311.0,1.5,69.5,1005.6,Jazan University Station,South
+2016-09-01 00:00:00+03:00,1565.15328,7104.0,6358.0,2375.0,34.2,49.0,3.5,14.3,926.0,Sharurah Technical Institute,South
+2016-09-01 00:00:00+03:00,1533.6475199999998,6961.0,5670.0,2711.0,31.3,42.0,2.2,15.3,880.1,Najran University Station,South
+2016-10-01 00:00:00+03:00,1318.83552,5986.0,5885.0,1872.0,31.0,32.0,2.3,67.0,1009.2,Jazan University Station,South
+2016-10-01 00:00:00+03:00,1537.17264,6977.0,8420.0,1441.0,24.8,65.0,1.7,14.4,883.9,Najran University Station,South
+2016-10-01 00:00:00+03:00,1308.2601599999998,5938.0,5871.0,1874.0,31.9,213.0,3.0,66.3,1007.8,Saline Water Conversion Corporation (Farasan) Station,South
+2016-10-01 00:00:00+03:00,1511.83584,6862.0,8255.0,1419.0,27.2,41.0,2.7,13.7,931.1,Sharurah Technical Institute,South
+2016-10-01 00:00:00+03:00,1440.4521599999998,6538.0,7634.0,1374.0,28.5,33.0,2.3,25.9,893.6,Tuhamat Qahtan Technical Institute,South
+2016-11-01 00:00:00+03:00,1062.6033599999998,4823.0,4479.0,2009.0,29.2,150.0,3.2,70.3,1010.9,Saline Water Conversion Corporation (Farasan) Station,South
+2016-11-01 00:00:00+03:00,1319.9371199999998,5991.0,7840.0,1306.0,21.1,85.0,1.6,27.2,886.0,Najran University Station,South
+2016-11-01 00:00:00+03:00,1283.364,5825.0,7433.0,1413.0,23.7,50.0,3.1,26.3,933.7,Sharurah Technical Institute,South
+2016-11-01 00:00:00+03:00,1190.60928,5404.0,6653.0,1366.0,25.2,5.0,2.2,37.1,895.5,Tuhamat Qahtan Technical Institute,South
+2016-11-01 00:00:00+03:00,1088.82144,4942.0,4743.0,1930.0,28.6,323.0,2.8,69.5,1012.4,Jazan University Station,South
+2016-12-01 00:00:00+03:00,1021.40352,4636.0,4488.0,1984.0,27.7,169.0,3.1,76.2,1012.7,Saline Water Conversion Corporation (Farasan) Station,South
+2016-12-01 00:00:00+03:00,1027.35216,4663.0,4764.0,1826.0,27.2,341.0,2.7,75.7,1014.2,Jazan University Station,South
+2016-12-01 00:00:00+03:00,1217.48832,5526.0,7991.0,1064.0,22.7,57.0,3.6,31.4,934.9,Sharurah Technical Institute,South
+2016-12-01 00:00:00+03:00,1240.18128,5629.0,8149.0,1083.0,20.0,101.0,1.7,31.6,886.6,Najran University Station,South
+2016-12-01 00:00:00+03:00,1166.5944,5295.0,7220.0,1112.0,24.3,47.0,2.0,47.7,896.4,Tuhamat Qahtan Technical Institute,South
+2017-01-01 00:00:00+03:00,1067.67072,4846.0,4809.0,1898.0,26.4,331.0,2.8,75.7,1013.9,Jazan University Station,South
+2017-01-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-01-01 00:00:00+03:00,1157.56128,5254.0,6505.0,1324.0,23.8,54.0,1.9,53.8,895.8,Tuhamat Qahtan Technical Institute,South
+2017-01-01 00:00:00+03:00,1273.89024,5782.0,7774.0,1286.0,20.0,88.0,1.7,25.2,885.4,Najran University Station,South
+2017-01-01 00:00:00+03:00,1062.38304,4822.0,4814.0,1908.0,26.9,155.0,3.1,77.1,1012.4,Saline Water Conversion Corporation (Farasan) Station,South
+2017-02-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-02-01 00:00:00+03:00,1021.62384,4637.0,2564.0,2883.0,27.0,178.0,3.8,75.2,1011.6,Saline Water Conversion Corporation (Farasan) Station,South
+2017-02-01 00:00:00+03:00,987.0336,4480.0,2575.0,2707.0,26.6,344.0,3.1,73.7,1013.3,Jazan University Station,South
+2017-02-01 00:00:00+03:00,1215.72576,5518.0,4577.0,2426.0,19.3,65.0,2.2,33.4,884.7,Najran University Station,South
+2017-02-01 00:00:00+03:00,1026.25056,4658.0,3505.0,2326.0,23.3,46.0,2.0,58.6,894.9,Tuhamat Qahtan Technical Institute,South
+2017-03-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-03-01 00:00:00+03:00,1435.60512,6516.0,5407.0,2537.0,26.1,41.0,2.2,29.7,881.4,Najran University Station,South
+2017-03-01 00:00:00+03:00,1267.5009599999998,5753.0,4718.0,2300.0,26.4,58.0,2.1,52.4,893.0,Tuhamat Qahtan Technical Institute,South
+2017-03-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-03-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-04-01 00:00:00+03:00,1350.78192,6131.0,4453.0,2685.0,30.4,180.0,3.5,71.8,1007.2,Saline Water Conversion Corporation (Farasan) Station,South
+2017-04-01 00:00:00+03:00,1649.31552,7486.0,6505.0,2597.0,28.2,85.0,2.2,15.8,882.4,Najran University Station,South
+2017-04-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-04-01 00:00:00+03:00,1541.35872,6996.0,5866.0,2474.0,29.3,64.0,2.3,35.6,893.1,Tuhamat Qahtan Technical Institute,South
+2017-04-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-05-01 00:00:00+03:00,1630.58832,7401.0,5908.0,2866.0,34.5,50.0,3.8,19.9,926.6,Sharurah Technical Institute,South
+2017-05-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-05-01 00:00:00+03:00,1389.33792,6306.0,4173.0,2936.0,32.6,233.0,3.2,71.0,1005.7,Saline Water Conversion Corporation (Farasan) Station,South
+2017-05-01 00:00:00+03:00,1449.7056,6580.0,4744.0,2776.0,29.4,63.0,2.0,53.1,892.2,Tuhamat Qahtan Technical Institute,South
+2017-05-01 00:00:00+03:00,1603.7092799999998,7279.0,5213.0,3151.0,31.1,39.0,2.3,21.0,880.9,Najran University Station,South
+2017-06-01 00:00:00+03:00,1380.3048,6265.0,3597.0,3288.0,33.6,257.0,3.5,69.4,1001.8,Saline Water Conversion Corporation (Farasan) Station,South
+2017-06-01 00:00:00+03:00,1633.01184,7412.0,5124.0,3404.0,36.3,38.0,3.3,10.1,923.4,Sharurah Technical Institute,South
+2017-06-01 00:00:00+03:00,1657.24704,7522.0,5206.0,3466.0,33.5,30.0,2.1,10.1,878.2,Najran University Station,South
+2017-06-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-06-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2017-07-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-07-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2017-07-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-07-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2017-07-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-08-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2017-08-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-08-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-08-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2017-08-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2017-09-01 00:00:00+03:00,1438.24896,6528.0,6132.0,2007.0,33.9,49.0,3.3,14.3,925.6,Sharurah Technical Institute,South
+2017-09-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-09-01 00:00:00+03:00,1619.79264,7352.0,7026.0,2186.0,30.8,31.0,2.2,13.5,879.8,Najran University Station,South
+2017-09-01 00:00:00+03:00,1436.26608,6519.0,5606.0,2300.0,31.1,51.0,2.4,38.6,890.6,Tuhamat Qahtan Technical Institute,South
+2017-09-01 00:00:00+03:00,1349.9006399999998,6127.0,4304.0,2720.0,32.8,36.0,3.0,70.6,1005.7,Jazan University Station,South
+2017-10-01 00:00:00+03:00,1428.99552,6486.0,7617.0,1323.0,29.3,336.0,2.3,28.0,893.4,Tuhamat Qahtan Technical Institute,South
+2017-10-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-10-01 00:00:00+03:00,1338.00336,6073.0,6975.0,1452.0,29.2,42.0,3.3,17.7,930.1,Sharurah Technical Institute,South
+2017-10-01 00:00:00+03:00,1519.76736,6898.0,8301.0,1430.0,25.9,56.0,1.9,18.0,883.4,Najran University Station,South
+2017-10-01 00:00:00+03:00,1272.78864,5777.0,5247.0,2056.0,31.4,40.0,3.0,71.2,1009.0,Jazan University Station,South
+2017-11-01 00:00:00+03:00,1238.1984,5620.0,7198.0,1174.0,25.7,36.0,2.2,38.8,894.6,Tuhamat Qahtan Technical Institute,South
+2017-11-01 00:00:00+03:00,1086.1775999999998,4930.0,4790.0,1890.0,29.3,330.0,2.9,68.3,1011.7,Jazan University Station,South
+2017-11-01 00:00:00+03:00,1159.54416,5263.0,7021.0,1092.0,24.8,54.0,3.5,28.9,932.6,Sharurah Technical Institute,South
+2017-11-01 00:00:00+03:00,1313.98848,5964.0,7866.0,1290.0,21.3,96.0,1.8,30.8,885.0,Najran University Station,South
+2017-11-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-12-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2017-12-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2017-12-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2017-12-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2017-12-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-01-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2018-01-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2018-01-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2018-01-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-01-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2018-02-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-02-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2018-02-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2018-02-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2018-02-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2018-03-01 00:00:00+03:00,1559.42496,7078.0,7299.0,1944.0,24.3,93.0,2.2,21.3,883.1,Najran University Station,South
+2018-03-01 00:00:00+03:00,1536.0710399999998,6972.0,7194.0,1745.0,26.8,38.0,2.3,32.2,893.4,Tuhamat Qahtan Technical Institute,South
+2018-03-01 00:00:00+03:00,1441.9943999999998,6545.0,5680.0,2369.0,28.1,168.0,3.4,73.7,1008.6,Saline Water Conversion Corporation (Farasan) Station,South
+2018-03-01 00:00:00+03:00,1400.79456,6358.0,5433.0,2313.0,28.2,359.0,3.0,69.3,1010.3,Jazan University Station,South
+2018-03-01 00:00:00+03:00,1569.1190399999998,7122.0,7406.0,1905.0,27.4,63.0,3.9,18.0,930.4,Sharurah Technical Institute,South
+2018-04-01 00:00:00+03:00,1449.0446399999998,6577.0,5046.0,2691.0,30.6,204.0,3.5,72.6,1006.2,Saline Water Conversion Corporation (Farasan) Station,South
+2018-04-01 00:00:00+03:00,1494.21024,6782.0,4304.0,3338.0,26.8,17.0,2.0,35.7,881.1,Najran University Station,South
+2018-04-01 00:00:00+03:00,1418.64048,6439.0,4730.0,2757.0,30.8,29.0,3.2,67.3,1007.8,Jazan University Station,South
+2018-04-01 00:00:00+03:00,1488.9225599999995,6758.0,4035.0,3579.0,31.4,49.0,4.0,24.4,927.5,Sharurah Technical Institute,South
+2018-04-01 00:00:00+03:00,1358.93376,6168.0,4621.0,2591.0,26.6,54.0,2.0,46.4,892.3,Tuhamat Qahtan Technical Institute,South
+2018-05-01 00:00:00+03:00,1459.84032,6626.0,4423.0,3065.0,32.2,25.0,3.1,65.3,1005.9,Jazan University Station,South
+2018-05-01 00:00:00+03:00,1498.3963199999998,6801.0,4629.0,3095.0,32.3,218.0,3.6,70.4,1004.2,Saline Water Conversion Corporation (Farasan) Station,South
+2018-05-01 00:00:00+03:00,1772.69472,8046.0,6127.0,3251.0,30.4,42.0,2.4,20.4,880.1,Najran University Station,South
+2018-05-01 00:00:00+03:00,1603.04832,7276.0,5660.0,2861.0,33.1,58.0,3.9,21.8,926.2,Sharurah Technical Institute,South
+2018-05-01 00:00:00+03:00,1462.9248,6640.0,4991.0,2685.0,30.0,61.0,2.3,39.7,891.0,Tuhamat Qahtan Technical Institute,South
+2018-06-01 00:00:00+03:00,1271.68704,5772.0,2356.0,3796.0,33.4,38.0,3.4,64.7,1003.3,Jazan University Station,South
+2018-06-01 00:00:00+03:00,1352.54448,6139.0,2741.0,3848.0,33.8,265.0,1.1,65.6,1001.7,Saline Water Conversion Corporation (Farasan) Station,South
+2018-06-01 00:00:00+03:00,1518.44544,6892.0,3753.0,3875.0,36.2,27.0,3.6,14.7,922.9,Sharurah Technical Institute,South
+2018-06-01 00:00:00+03:00,1312.66656,5958.0,2937.0,3549.0,31.3,60.0,2.1,40.6,889.2,Tuhamat Qahtan Technical Institute,South
+2018-06-01 00:00:00+03:00,1649.5358399999998,7487.0,4106.0,4190.0,33.5,15.0,2.5,15.8,877.8,Najran University Station,South
+2018-07-01 00:00:00+03:00,1580.35536,7173.0,3610.0,4209.0,34.5,341.0,2.8,16.3,876.1,Najran University Station,South
+2018-07-01 00:00:00+03:00,1225.86048,5564.0,1902.0,3913.0,33.6,54.0,3.1,62.7,1003.3,Jazan University Station,South
+2018-07-01 00:00:00+03:00,1322.58096,6003.0,2586.0,3813.0,34.4,282.0,0.0,60.8,1001.8,Saline Water Conversion Corporation (Farasan) Station,South
+2018-07-01 00:00:00+03:00,1171.88208,5319.0,1788.0,3802.0,30.4,48.0,2.2,43.6,889.0,Tuhamat Qahtan Technical Institute,South
+2018-07-01 00:00:00+03:00,1433.1816,6505.0,3269.0,3846.0,36.8,335.0,3.8,11.9,920.8,Sharurah Technical Institute,South
+2018-08-01 00:00:00+03:00,1473.72048,6689.0,4164.0,3350.0,36.6,355.0,3.7,15.4,921.7,Sharurah Technical Institute,South
+2018-08-01 00:00:00+03:00,1209.77712,5491.0,2519.0,3387.0,29.2,54.0,2.0,52.0,889.4,Tuhamat Qahtan Technical Institute,South
+2018-08-01 00:00:00+03:00,1232.02944,5592.0,2489.0,3454.0,33.1,58.0,0.9,66.9,1003.9,Jazan University Station,South
+2018-08-01 00:00:00+03:00,1575.50832,7151.0,4356.0,3639.0,33.9,350.0,2.6,17.5,876.5,Najran University Station,South
+2018-08-01 00:00:00+03:00,1315.3103999999998,5970.0,3093.0,3397.0,34.1,0.0,0.0,64.3,1002.3,Saline Water Conversion Corporation (Farasan) Station,South
+2018-09-01 00:00:00+03:00,1657.46736,7523.0,6918.0,2430.0,31.1,53.0,2.3,15.2,880.1,Najran University Station,South
+2018-09-01 00:00:00+03:00,1325.00448,6014.0,4092.0,2776.0,33.1,356.0,0.2,68.8,1006.0,Jazan University Station,South
+2018-09-01 00:00:00+03:00,1321.03872,5996.0,3904.0,2910.0,33.5,0.0,0.0,71.6,1004.4,Saline Water Conversion Corporation (Farasan) Station,South
+2018-09-01 00:00:00+03:00,1491.78672,6771.0,6609.0,1989.0,34.1,72.0,3.7,16.3,925.9,Sharurah Technical Institute,South
+2018-09-01 00:00:00+03:00,1410.048,6400.0,5328.0,2345.0,30.5,20.0,2.4,41.1,891.1,Tuhamat Qahtan Technical Institute,South
+2018-10-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-10-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2018-10-01 00:00:00+03:00,1458.07776,6618.0,6780.0,2021.0,25.9,58.0,2.1,32.0,883.9,Najran University Station,South
+2018-10-01 00:00:00+03:00,1273.22928,5779.0,5795.0,1726.0,27.5,275.0,2.2,39.5,894.1,Tuhamat Qahtan Technical Institute,South
+2018-10-01 00:00:00+03:00,1170.56016,5313.0,4681.0,2104.0,31.0,0.0,0.0,69.3,1009.9,Jazan University Station,South
+2018-11-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2018-11-01 00:00:00+03:00,1085.95728,4929.0,5364.0,1612.0,25.0,32.0,2.0,48.3,894.8,Tuhamat Qahtan Technical Institute,South
+2018-11-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2018-11-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-11-01 00:00:00+03:00,1250.97696,5678.0,6375.0,1838.0,23.6,93.0,1.9,35.4,884.5,Najran University Station,South
+2018-12-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2018-12-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2018-12-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2018-12-01 00:00:00+03:00,1274.33088,5784.0,8419.0,1091.0,19.9,90.0,1.8,33.9,885.6,Najran University Station,South
+2018-12-01 00:00:00+03:00,1093.44816,4963.0,6168.0,1332.0,23.3,46.0,1.9,52.7,895.8,Tuhamat Qahtan Technical Institute,South
+2019-01-01 00:00:00+03:00,1003.5576,4555.0,3542.0,2345.0,26.5,0.0,0.0,75.3,1014.3,Jazan University Station,South
+2019-01-01 00:00:00+03:00,1047.4012799999998,4754.0,3783.0,2405.0,26.6,0.0,0.0,78.6,1012.6,Saline Water Conversion Corporation (Farasan) Station,South
+2019-01-01 00:00:00+03:00,1291.95648,5864.0,6777.0,1887.0,20.4,86.0,1.8,31.2,885.6,Najran University Station,South
+2019-01-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2019-01-01 00:00:00+03:00,1177.83072,5346.0,6243.0,1534.0,23.6,49.0,1.8,50.7,896.1,Tuhamat Qahtan Technical Institute,South
+2019-02-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2019-02-01 00:00:00+03:00,1171.88208,5319.0,4439.0,2300.0,24.5,49.0,2.0,50.5,894.9,Tuhamat Qahtan Technical Institute,South
+2019-02-01 00:00:00+03:00,1399.47264,6352.0,5702.0,2523.0,22.1,72.0,2.1,32.8,884.1,Najran University Station,South
+2019-02-01 00:00:00+03:00,1103.58288,5009.0,3203.0,2781.0,27.1,0.0,0.0,72.5,1012.8,Jazan University Station,South
+2019-02-01 00:00:00+03:00,1126.71648,5114.0,3601.0,2634.0,27.0,328.0,0.0,77.0,1011.2,Saline Water Conversion Corporation (Farasan) Station,South
+2019-03-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2019-03-01 00:00:00+03:00,1551.0527999999997,7040.0,5216.0,3158.0,25.2,72.0,2.3,24.2,882.3,Najran University Station,South
+2019-03-01 00:00:00+03:00,1310.46336,5948.0,4904.0,2336.0,25.7,52.0,2.2,45.9,893.8,Tuhamat Qahtan Technical Institute,South
+2019-03-01 00:00:00+03:00,1300.1083199999998,5901.0,4176.0,2817.0,27.7,268.0,0.0,73.1,1009.7,Saline Water Conversion Corporation (Farasan) Station,South
+2019-03-01 00:00:00+03:00,1278.73728,5804.0,3933.0,2851.0,28.0,0.0,0.0,69.4,1011.3,Jazan University Station,South
+2019-04-01 00:00:00+03:00,1370.17008,6219.0,4159.0,2973.0,30.3,0.0,0.0,69.9,1008.8,Jazan University Station,South
+2019-04-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2019-04-01 00:00:00+03:00,1519.76736,6898.0,4690.0,3203.0,27.7,55.0,2.2,30.3,881.6,Najran University Station,South
+2019-04-01 00:00:00+03:00,1412.91216,6413.0,4669.0,2805.0,28.1,59.0,2.3,43.9,892.7,Tuhamat Qahtan Technical Institute,South
+2019-04-01 00:00:00+03:00,1494.65088,6784.0,4822.0,3091.0,30.9,77.0,4.0,23.7,928.2,Sharurah Technical Institute,South
+2019-05-01 00:00:00+03:00,1581.8975999999998,7180.0,5518.0,2922.0,33.2,77.0,3.5,23.2,927.4,Sharurah Technical Institute,South
+2019-05-01 00:00:00+03:00,1570.8816,7130.0,5304.0,2986.0,29.3,24.0,2.2,30.6,881.5,Najran University Station,South
+2019-05-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2019-05-01 00:00:00+03:00,1397.7100799999998,6344.0,4650.0,2697.0,28.1,67.0,2.0,43.4,892.5,Tuhamat Qahtan Technical Institute,South
+2019-05-01 00:00:00+03:00,1395.94752,6336.0,4737.0,2598.0,32.9,0.0,0.0,58.4,1007.0,Jazan University Station,South
+2019-06-01 00:00:00+03:00,1636.09632,7426.0,5650.0,3053.0,36.5,41.0,3.4,13.7,923.2,Sharurah Technical Institute,South
+2019-06-01 00:00:00+03:00,,,,,34.0,0.0,0.0,67.6,1002.1,Saline Water Conversion Corporation (Farasan) Station,South
+2019-06-01 00:00:00+03:00,1330.95312,6041.0,4034.0,2833.0,31.2,61.0,2.1,43.9,889.6,Tuhamat Qahtan Technical Institute,South
+2019-06-01 00:00:00+03:00,1290.63456,5858.0,3108.0,3270.0,33.8,0.0,0.0,66.0,1003.7,Jazan University Station,South
+2019-06-01 00:00:00+03:00,1690.07472,7671.0,5848.0,3098.0,33.6,24.0,2.3,14.8,878.4,Najran University Station,South
+2019-07-01 00:00:00+03:00,1602.16704,7272.0,4296.0,3849.0,34.9,356.0,2.8,13.7,876.0,Najran University Station,South
+2019-07-01 00:00:00+03:00,1188.18576,5393.0,2203.0,3556.0,31.2,47.0,2.2,43.3,888.2,Tuhamat Qahtan Technical Institute,South
+2019-07-01 00:00:00+03:00,1254.06144,5692.0,2265.0,3737.0,33.8,0.0,0.0,62.9,1002.2,Jazan University Station,South
+2019-07-01 00:00:00+03:00,1571.1019199999998,7131.0,4165.0,3781.0,37.3,21.0,3.6,15.3,920.5,Sharurah Technical Institute,South
+2019-07-01 00:00:00+03:00,,,,,34.5,0.0,0.0,62.2,1000.8,Saline Water Conversion Corporation (Farasan) Station,South
+2019-08-01 00:00:00+03:00,1539.5961599999998,6988.0,4912.0,3195.0,36.3,358.0,3.9,15.6,922.3,Sharurah Technical Institute,South
+2019-08-01 00:00:00+03:00,1557.6624000000002,7070.0,4958.0,3202.0,33.4,347.0,2.7,18.6,877.5,Najran University Station,South
+2019-08-01 00:00:00+03:00,1196.11728,5429.0,2806.0,3152.0,33.2,0.0,0.0,71.9,1003.2,Saline Water Conversion Corporation (Farasan) Station,South
+2019-08-01 00:00:00+03:00,1263.75552,5736.0,3450.0,2937.0,28.8,51.0,2.2,54.6,890.1,Tuhamat Qahtan Technical Institute,South
+2019-08-01 00:00:00+03:00,1167.03504,5297.0,2390.0,3287.0,32.4,276.0,0.0,67.5,1004.8,Jazan University Station,South
+2019-09-01 00:00:00+03:00,1566.25488,7109.0,6208.0,2532.0,31.5,28.0,2.3,19.3,879.5,Najran University Station,South
+2019-09-01 00:00:00+03:00,1285.12656,5833.0,3856.0,2757.0,32.5,0.0,0.0,68.1,1004.9,Jazan University Station,South
+2019-09-01 00:00:00+03:00,1316.8526399999998,5977.0,4872.0,2296.0,30.5,50.0,2.2,42.2,890.4,Tuhamat Qahtan Technical Institute,South
+2019-09-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2019-09-01 00:00:00+03:00,1507.2091200000002,6841.0,5726.0,2555.0,34.7,42.0,3.8,19.3,924.7,Sharurah Technical Institute,South
+2019-10-01 00:00:00+03:00,1203.82848,5464.0,4980.0,1949.0,30.9,0.0,0.0,65.4,1009.4,Jazan University Station,South
+2019-10-01 00:00:00+03:00,1250.5363200000002,5676.0,5971.0,1690.0,27.5,40.0,2.3,43.6,893.3,Tuhamat Qahtan Technical Institute,South
+2019-10-01 00:00:00+03:00,1475.26272,6696.0,7261.0,1835.0,27.0,66.0,2.1,22.2,882.8,Najran University Station,South
+2019-10-01 00:00:00+03:00,1457.19648,6614.0,7635.0,1531.0,30.5,62.0,3.7,20.7,929.3,Sharurah Technical Institute,South
+2019-10-01 00:00:00+03:00,1172.54304,5322.0,4717.0,2084.0,31.6,188.0,0.0,71.0,1007.7,Saline Water Conversion Corporation (Farasan) Station,South
+2019-11-01 00:00:00+03:00,1227.62304,5572.0,6870.0,1426.0,24.5,56.0,3.8,36.2,932.1,Sharurah Technical Institute,South
+2019-11-01 00:00:00+03:00,1117.0224,5070.0,5647.0,1559.0,25.3,38.0,2.0,45.0,894.1,Tuhamat Qahtan Technical Institute,South
+2019-11-01 00:00:00+03:00,1066.78944,4842.0,4659.0,1881.0,29.3,215.0,0.0,63.9,1010.6,Jazan University Station,South
+2019-11-01 00:00:00+03:00,1052.4686399999998,4777.0,4517.0,1985.0,29.9,0.0,0.0,74.1,1008.9,Saline Water Conversion Corporation (Farasan) Station,South
+2019-11-01 00:00:00+03:00,1250.09568,5674.0,6569.0,1644.0,22.0,95.0,2.0,37.5,884.5,Najran University Station,South
+2019-12-01 00:00:00+03:00,1210.43808,5494.0,7390.0,1344.0,20.0,94.0,1.8,38.2,885.0,Najran University Station,South
+2019-12-01 00:00:00+03:00,1063.92528,4829.0,5781.0,1444.0,23.3,47.0,1.9,52.1,895.1,Tuhamat Qahtan Technical Institute,South
+2019-12-01 00:00:00+03:00,975.13632,4426.0,4060.0,2029.0,27.9,0.0,0.0,78.6,1011.0,Saline Water Conversion Corporation (Farasan) Station,South
+2019-12-01 00:00:00+03:00,953.32464,4327.0,4073.0,1921.0,27.8,350.0,0.0,60.2,1012.5,Jazan University Station,South
+2019-12-01 00:00:00+03:00,1169.67888,5309.0,7408.0,1168.0,22.0,62.0,3.5,37.8,933.1,Sharurah Technical Institute,South
+2020-01-01 00:00:00+03:00,1228.94496,5578.0,6715.0,1641.0,19.9,52.0,3.4,34.4,933.8,Sharurah Technical Institute,South
+2020-01-01 00:00:00+03:00,949.35888,4309.0,3638.0,2129.0,26.7,149.0,0.6,72.3,1013.0,Saline Water Conversion Corporation (Farasan) Station,South
+2020-01-01 00:00:00+03:00,1035.06336,4698.0,5022.0,1669.0,21.8,53.0,2.0,53.2,896.0,Tuhamat Qahtan Technical Institute,South
+2020-01-01 00:00:00+03:00,1001.79504,4547.0,4213.0,1939.0,26.3,176.0,0.3,62.6,1014.6,Jazan University Station,South
+2020-01-01 00:00:00+03:00,1301.43024,5907.0,7354.0,1570.0,18.5,71.0,1.9,33.1,885.3,Najran University Station,South
+2020-02-01 00:00:00+03:00,1355.84928,6154.0,6297.0,2103.0,23.6,62.0,3.9,23.6,932.7,Sharurah Technical Institute,South
+2020-02-01 00:00:00+03:00,1174.74624,5332.0,4482.0,2222.0,25.5,45.0,2.1,47.1,894.9,Tuhamat Qahtan Technical Institute,South
+2020-02-01 00:00:00+03:00,1081.33056,4908.0,3092.0,2797.0,26.8,292.0,3.2,63.9,1013.8,Jazan University Station,South
+2020-02-01 00:00:00+03:00,1038.8088,4715.0,2876.0,2774.0,26.8,187.0,3.6,77.2,1012.1,Saline Water Conversion Corporation (Farasan) Station,South
+2020-02-01 00:00:00+03:00,1391.98176,6318.0,6185.0,2254.0,22.0,80.0,2.1,27.4,884.9,Najran University Station,South
+2020-03-01 00:00:00+03:00,1315.97136,5973.0,4564.0,2581.0,25.5,56.0,2.1,51.5,893.1,Tuhamat Qahtan Technical Institute,South
+2020-03-01 00:00:00+03:00,1562.50944,7092.0,5320.0,3120.0,24.9,68.0,2.2,26.0,882.0,Najran University Station,South
+2020-03-01 00:00:00+03:00,1493.7696,6780.0,4887.0,3187.0,26.9,61.0,4.2,26.1,929.2,Sharurah Technical Institute,South
+2020-03-01 00:00:00+03:00,1239.52032,5626.0,3471.0,2986.0,28.1,23.0,3.3,64.9,1010.4,Jazan University Station,South
+2020-03-01 00:00:00+03:00,1255.3833599999998,5698.0,2098.0,4137.0,28.0,201.0,3.6,76.8,1008.7,Saline Water Conversion Corporation (Farasan) Station,South
+2020-04-01 00:00:00+03:00,1408.28544,6392.0,5109.0,2487.0,30.8,16.0,3.3,66.0,1008.9,Jazan University Station,South
+2020-04-01 00:00:00+03:00,1408.9463999999998,6395.0,1.0,6395.0,30.3,174.0,3.4,74.9,1007.3,Saline Water Conversion Corporation (Farasan) Station,South
+2020-04-01 00:00:00+03:00,1562.50944,7092.0,5397.0,2924.0,28.3,57.0,1.8,35.2,881.0,Najran University Station,South
+2020-04-01 00:00:00+03:00,1563.83136,7098.0,5737.0,2730.0,31.1,137.0,3.8,34.4,927.9,Sharurah Technical Institute,South
+2020-04-01 00:00:00+03:00,1387.79568,6299.0,5261.0,2324.0,27.4,57.0,2.0,51.6,892.9,Tuhamat Qahtan Technical Institute,South
+2020-05-01 00:00:00+03:00,1657.24704,7522.0,6154.0,2767.0,34.6,56.0,3.7,19.4,927.0,Sharurah Technical Institute,South
+2020-05-01 00:00:00+03:00,1441.1131200000002,6541.0,5140.0,2439.0,29.6,56.0,2.1,43.4,892.4,Tuhamat Qahtan Technical Institute,South
+2020-05-01 00:00:00+03:00,1595.5574400000005,7242.0,5163.0,3216.0,33.6,52.0,2.2,23.9,881.1,Najran University Station,South
+2020-05-01 00:00:00+03:00,1403.4384,6370.0,0.0,6369.0,33.1,231.0,3.5,69.1,1005.5,Saline Water Conversion Corporation (Farasan) Station,South
+2020-05-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2020-06-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2020-06-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2020-06-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2020-06-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2020-06-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2020-07-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2020-07-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2020-07-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2020-07-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2020-07-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2020-08-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2020-08-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2020-08-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2020-08-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2020-08-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2020-09-01 00:00:00+03:00,1610.31888,7309.0,7390.0,1964.0,33.4,42.0,3.3,15.2,925.1,Sharurah Technical Institute,South
+2020-09-01 00:00:00+03:00,1288.872,5850.0,4366.0,2484.0,33.2,218.0,3.0,73.9,1003.1,Saline Water Conversion Corporation (Farasan) Station,South
+2020-09-01 00:00:00+03:00,1419.52176,6443.0,5887.0,2029.0,30.1,81.0,2.2,39.5,890.3,Tuhamat Qahtan Technical Institute,South
+2020-09-01 00:00:00+03:00,1689.19344,7667.0,7432.0,2283.0,30.5,35.0,2.1,15.5,879.5,Najran University Station,South
+2020-09-01 00:00:00+03:00,1318.83552,5986.0,4338.0,2576.0,32.7,308.0,2.6,68.5,1004.8,Jazan University Station,South
+2020-10-01 00:00:00+03:00,1235.55456,5608.0,5751.0,1654.0,31.8,196.0,3.0,69.5,1007.3,Saline Water Conversion Corporation (Farasan) Station,South
+2020-10-01 00:00:00+03:00,1270.1448,5765.0,5828.0,1721.0,31.4,291.0,2.7,66.3,1009.0,Jazan University Station,South
+2020-10-01 00:00:00+03:00,1607.45472,7296.0,9097.0,1372.0,25.1,45.0,1.8,16.7,883.6,Najran University Station,South
+2020-10-01 00:00:00+03:00,1498.3963199999998,6801.0,8286.0,1365.0,27.6,35.0,2.8,17.3,930.4,Sharurah Technical Institute,South
+2020-10-01 00:00:00+03:00,1398.59136,6348.0,7733.0,1157.0,28.2,279.0,2.4,26.1,893.5,Tuhamat Qahtan Technical Institute,South
+2020-11-01 00:00:00+03:00,1123.632,5100.0,6380.0,1161.0,25.1,45.0,2.0,48.3,894.9,Tuhamat Qahtan Technical Institute,South
+2020-11-01 00:00:00+03:00,1051.80768,4774.0,4470.0,1916.0,29.5,247.0,2.8,69.0,1011.9,Jazan University Station,South
+2020-11-01 00:00:00+03:00,994.96512,4516.0,4170.0,1890.0,29.4,136.0,3.4,74.2,1010.2,Saline Water Conversion Corporation (Farasan) Station,South
+2020-11-01 00:00:00+03:00,1316.8526399999998,5977.0,8351.0,1054.0,25.1,56.0,3.2,26.4,932.6,Sharurah Technical Institute,South
+2020-11-01 00:00:00+03:00,,,,,22.1,101.0,1.5,26.9,885.0,Najran University Station,South
+2020-12-01 00:00:00+03:00,1213.9632,5510.0,7951.0,1098.0,21.2,58.0,3.3,35.8,934.1,Sharurah Technical Institute,South
+2020-12-01 00:00:00+03:00,985.05072,4471.0,4512.0,1809.0,27.6,241.0,2.6,68.5,1013.1,Jazan University Station,South
+2020-12-01 00:00:00+03:00,1059.7392,4810.0,6248.0,1150.0,23.5,47.0,1.9,52.8,895.3,Tuhamat Qahtan Technical Institute,South
+2020-12-01 00:00:00+03:00,1295.04096,5878.0,8347.0,1236.0,19.0,105.0,1.4,36.5,885.7,Najran University Station,South
+2020-12-01 00:00:00+03:00,959.27328,4354.0,4142.0,1917.0,27.8,139.0,3.5,77.8,1011.4,Saline Water Conversion Corporation (Farasan) Station,South
+2021-01-01 00:00:00+03:00,1360.25568,6174.0,8075.0,1484.0,17.8,98.0,1.6,28.3,885.7,Najran University Station,South
+2021-01-01 00:00:00+03:00,1302.75216,5913.0,8247.0,1163.0,19.8,54.0,3.2,26.6,934.3,Sharurah Technical Institute,South
+2021-01-01 00:00:00+03:00,1006.42176,4568.0,4136.0,2040.0,25.9,232.0,2.5,67.5,1013.5,Jazan University Station,South
+2021-01-01 00:00:00+03:00,972.05184,4412.0,3636.0,2204.0,26.3,127.0,3.6,78.0,1011.7,Saline Water Conversion Corporation (Farasan) Station,South
+2021-01-01 00:00:00+03:00,1151.3923200000002,5226.0,6365.0,1410.0,22.5,47.0,2.0,46.5,895.1,Tuhamat Qahtan Technical Institute,South
+2021-02-01 00:00:00+03:00,1047.6216,4755.0,3597.0,2326.0,26.3,161.0,3.7,77.0,1011.0,Saline Water Conversion Corporation (Farasan) Station,South
+2021-02-01 00:00:00+03:00,1449.7056,6580.0,7126.0,1926.0,20.8,92.0,1.9,30.6,884.3,Najran University Station,South
+2021-02-01 00:00:00+03:00,1180.03392,5356.0,5375.0,1809.0,23.4,50.0,2.1,48.4,894.6,Tuhamat Qahtan Technical Institute,South
+2021-02-01 00:00:00+03:00,1051.36704,4772.0,3835.0,2168.0,26.2,235.0,2.8,66.7,1012.9,Jazan University Station,South
+2021-02-01 00:00:00+03:00,1387.79568,6299.0,6918.0,1854.0,22.9,52.0,3.8,25.7,932.3,Sharurah Technical Institute,South
+2021-03-01 00:00:00+03:00,1326.10608,6019.0,5150.0,2220.0,28.1,142.0,3.5,75.4,1008.6,Saline Water Conversion Corporation (Farasan) Station,South
+2021-03-01 00:00:00+03:00,1646.23104,7472.0,7876.0,1971.0,27.7,99.0,3.6,16.1,930.2,Sharurah Technical Institute,South
+2021-03-01 00:00:00+03:00,1351.88352,6136.0,4951.0,2459.0,28.4,224.0,2.7,66.9,1010.2,Jazan University Station,South
+2021-03-01 00:00:00+03:00,1464.46704,6647.0,6130.0,2144.0,27.0,59.0,2.2,36.7,893.4,Tuhamat Qahtan Technical Institute,South
+2021-03-01 00:00:00+03:00,1709.90352,7761.0,7704.0,2329.0,25.3,89.0,1.7,16.8,882.8,Najran University Station,South
+2021-04-01 00:00:00+03:00,1425.91104,6472.0,4895.0,2649.0,30.2,230.0,2.8,65.2,1008.9,Jazan University Station,South
+2021-04-01 00:00:00+03:00,1674.21168,7599.0,6611.0,2566.0,30.1,75.0,3.7,19.5,929.0,Sharurah Technical Institute,South
+2021-04-01 00:00:00+03:00,1372.15296,6228.0,4867.0,2461.0,29.8,161.0,3.5,72.9,1007.3,Saline Water Conversion Corporation (Farasan) Station,South
+2021-04-01 00:00:00+03:00,1430.75808,6494.0,5110.0,2523.0,27.3,54.0,2.2,39.9,893.0,Tuhamat Qahtan Technical Institute,South
+2021-04-01 00:00:00+03:00,1686.5495999999998,7655.0,6031.0,3049.0,27.2,70.0,1.9,19.8,882.3,Najran University Station,South
+2021-05-01 00:00:00+03:00,1696.90464,7702.0,6458.0,2770.0,34.4,86.0,3.6,13.7,925.9,Sharurah Technical Institute,South
+2021-05-01 00:00:00+03:00,1770.2712,8035.0,6323.0,3183.0,31.9,57.0,2.2,13.3,879.8,Najran University Station,South
+2021-05-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2021-05-01 00:00:00+03:00,1362.89952,6186.0,4684.0,2516.0,32.4,218.0,3.2,70.1,1004.5,Saline Water Conversion Corporation (Farasan) Station,South
+2021-05-01 00:00:00+03:00,1412.2512,6410.0,4650.0,2732.0,32.3,264.0,2.6,66.1,1006.3,Jazan University Station,South
+2021-06-01 00:00:00+03:00,,,,,,,,,,Sharurah Technical Institute,South
+2021-06-01 00:00:00+03:00,,,,,,,,,,Jazan University Station,South
+2021-06-01 00:00:00+03:00,,,,,,,,,,Najran University Station,South
+2021-06-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2021-06-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2021-07-01 00:00:00+03:00,1093.66848,4964.0,2070.0,3262.0,29.2,54.0,2.0,55.4,888.1,Tuhamat Qahtan Technical Institute,South
+2021-07-01 00:00:00+03:00,1138.61376,5168.0,2258.0,3253.0,33.0,245.0,3.2,65.4,1002.7,Jazan University Station,South
+2021-07-01 00:00:00+03:00,1155.35808,5244.0,2656.0,3023.0,33.9,257.0,4.5,65.7,1001.0,Saline Water Conversion Corporation (Farasan) Station,South
+2021-07-01 00:00:00+03:00,1567.35648,7114.0,4540.0,3549.0,33.3,354.0,2.7,23.4,875.0,Najran University Station,South
+2021-07-01 00:00:00+03:00,1471.29696,6678.0,4290.0,3336.0,34.9,210.0,4.1,27.5,920.1,Sharurah Technical Institute,South
+2021-08-01 00:00:00+03:00,1627.7241600000002,7388.0,5179.0,3338.0,33.9,15.0,2.5,17.8,877.0,Najran University Station,South
+2021-08-01 00:00:00+03:00,,,3413.0,2994.0,29.6,64.0,2.0,56.8,889.3,Tuhamat Qahtan Technical Institute,South
+2021-08-01 00:00:00+03:00,1163.50992,5281.0,2953.0,2858.0,34.0,247.0,3.7,69.8,1002.0,Saline Water Conversion Corporation (Farasan) Station,South
+2021-08-01 00:00:00+03:00,1569.78,7125.0,5235.0,3061.0,36.7,40.0,4.1,17.9,922.0,Sharurah Technical Institute,South
+2021-08-01 00:00:00+03:00,1213.7428799999998,5509.0,2985.0,3038.0,33.2,237.0,2.6,70.0,1003.7,Jazan University Station,South
+2021-09-01 00:00:00+03:00,,,4461.0,2503.0,30.4,61.0,2.2,41.5,890.1,Tuhamat Qahtan Technical Institute,South
+2021-09-01 00:00:00+03:00,1672.4491200000002,7591.0,6939.0,2483.0,30.9,24.0,2.1,15.1,879.2,Najran University Station,South
+2021-09-01 00:00:00+03:00,1197.21888,5434.0,3514.0,2662.0,33.4,237.0,3.5,72.5,1003.1,Saline Water Conversion Corporation (Farasan) Station,South
+2021-09-01 00:00:00+03:00,1546.4260799999995,7019.0,6044.0,2546.0,34.0,29.0,3.4,15.1,924.5,Sharurah Technical Institute,South
+2021-09-01 00:00:00+03:00,1245.68928,5654.0,3697.0,2713.0,32.9,235.0,2.0,69.5,1004.7,Jazan University Station,South
+2021-10-01 00:00:00+03:00,,,6558.0,1513.0,28.8,246.0,2.4,31.5,893.5,Tuhamat Qahtan Technical Institute,South
+2021-10-01 00:00:00+03:00,1205.59104,5472.0,4702.0,2142.0,31.5,223.0,0.3,70.3,1008.9,Jazan University Station,South
+2021-10-01 00:00:00+03:00,,,,,,,,,,Saline Water Conversion Corporation (Farasan) Station,South
+2021-10-01 00:00:00+03:00,1548.8495999999998,7030.0,7831.0,1824.0,26.9,54.0,1.9,20.8,883.3,Najran University Station,South
+2021-10-01 00:00:00+03:00,1426.79232,6476.0,7160.0,1702.0,29.9,46.0,3.3,21.6,929.7,Sharurah Technical Institute,South
+2021-11-01 00:00:00+03:00,1403.65872,6371.0,8607.0,1259.0,22.5,101.0,1.3,25.3,885.1,Najran University Station,South
+2021-11-01 00:00:00+03:00,1203.38784,5462.0,6978.0,1185.0,26.0,12.0,2.2,34.0,894.7,Tuhamat Qahtan Technical Institute,South
+2021-11-01 00:00:00+03:00,1076.70384,4887.0,5022.0,1708.0,29.7,0.0,0.0,68.8,1011.3,Jazan University Station,South
+2021-11-01 00:00:00+03:00,1294.60032,5876.0,7711.0,1250.0,25.1,56.0,3.1,24.9,932.5,Sharurah Technical Institute,South
+2021-11-01 00:00:00+03:00,1044.09648,4739.0,4685.0,1771.0,30.0,165.0,2.8,71.6,1009.6,Saline Water Conversion Corporation (Farasan) Station,South
+2021-12-01 00:00:00+03:00,1311.56496,5953.0,8876.0,1068.0,19.0,97.0,1.1,32.0,885.6,Najran University Station,South
+2021-12-01 00:00:00+03:00,1209.77712,5491.0,8066.0,1039.0,21.0,53.0,2.5,32.6,933.9,Sharurah Technical Institute,South
+2021-12-01 00:00:00+03:00,995.40576,4518.0,4876.0,1608.0,27.5,39.0,0.0,70.3,1013.5,Jazan University Station,South
+2021-12-01 00:00:00+03:00,926.00496,4203.0,4077.0,1834.0,27.7,129.0,3.3,76.0,1011.8,Saline Water Conversion Corporation (Farasan) Station,South
+2021-12-01 00:00:00+03:00,,,,,,,,,,Tuhamat Qahtan Technical Institute,South
+2022-01-01 00:00:00+03:00,1178.49168,5349.0,6398.0,1607.0,21.2,54.0,3.5,31.7,932.9,Sharurah Technical Institute,South
+2022-01-01 00:00:00+03:00,1238.41872,5621.0,6590.0,1704.0,19.6,93.0,1.5,34.1,884.6,Najran University Station,South
+2022-01-01 00:00:00+03:00,887.0083199999999,4026.0,3252.0,2041.0,27.0,179.0,3.4,76.5,1011.7,Saline Water Conversion Corporation (Farasan) Station,South
+2022-01-01 00:00:00+03:00,912.34512,4141.0,3591.0,1973.0,26.8,0.0,0.0,71.5,1013.5,Jazan University Station,South
+2022-01-01 00:00:00+03:00,1035.28368,4699.0,5189.0,1543.0,22.7,49.0,1.8,59.5,895.3,Tuhamat Qahtan Technical Institute,South
+2022-02-01 00:00:00+03:00,1046.29968,4749.0,3330.0,2477.0,27.1,199.0,3.6,76.0,1010.6,Saline Water Conversion Corporation (Farasan) Station,South
+2022-02-01 00:00:00+03:00,1500.81984,6812.0,6958.0,2204.0,21.1,77.0,1.7,24.3,883.8,Najran University Station,South
+2022-02-01 00:00:00+03:00,1077.3648,4890.0,3553.0,2418.0,27.3,145.0,0.0,72.1,1012.2,Jazan University Station,South
+2022-02-01 00:00:00+03:00,1236.65616,5613.0,5458.0,1926.0,24.1,50.0,2.1,54.3,894.1,Tuhamat Qahtan Technical Institute,South
+2022-02-01 00:00:00+03:00,1401.67584,6362.0,6672.0,2017.0,22.8,56.0,3.6,22.7,931.8,Sharurah Technical Institute,South
+2022-03-01 00:00:00+03:00,1667.16144,7567.0,7004.0,2611.0,24.6,88.0,1.8,16.5,882.7,Najran University Station,South
+2022-03-01 00:00:00+03:00,1201.8456,5455.0,3705.0,2696.0,27.8,173.0,4.0,75.4,1008.8,Saline Water Conversion Corporation (Farasan) Station,South
+2022-03-01 00:00:00+03:00,1261.332,5725.0,3664.0,2929.0,28.2,0.0,0.0,70.8,1010.5,Jazan University Station,South
+2022-03-01 00:00:00+03:00,1560.74688,7084.0,6609.0,2447.0,26.4,69.0,3.5,16.4,930.2,Sharurah Technical Institute,South
+2022-03-01 00:00:00+03:00,1391.3207999999995,6315.0,5481.0,2251.0,26.3,47.0,2.1,43.7,893.1,Tuhamat Qahtan Technical Institute,South
